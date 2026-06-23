@@ -12,9 +12,9 @@ title: "Policy & Media"
 **VoxEU**
 
 - [Inactive workers and mortality due to Covid-19: Evidence from the Italian lockdown](https://voxeu.org/article/inactive-workers-and-mortality-due-covid-19-evidence-italy), October 23, 2020, with Francesco Drago, Chiara Santantonio and Francesco Sobbrio.
-- [Completing the Eurozone Banking Union](http://voxeu.org/article/completing-eurozone-banking-union), May 4, 2016, with Pietro Reichlin.
-- [The housing cost disease](http://www.voxeu.org/article/housing-cost-disease), September 8, 2015, with Pietro Reichlin.
-- [Is Italy going to make it?](http://www.voxeu.org/article/italy-going-make-it), February 4, 2012, with Gianfranco Di Vaio and Giuseppe Ragusa.
+- [Completing the Eurozone Banking Union](http://voxeu.org/article/completing-eurozone-banking-union), May 4, 2016, with Pietro Reichlin. [PDF](assets/policy-media/public-web/VoxEu/Completing%20the%20Eurozone%20banking%20union%20%7C%20VOX%2C%20CEPR%E2%80%99s%20Policy%20Portal.pdf)
+- [The housing cost disease](http://www.voxeu.org/article/housing-cost-disease), September 8, 2015, with Pietro Reichlin. [PDF](assets/policy-media/public-web/VoxEu/The%20housing%20cost%20disease.pdf)
+- [Is Italy going to make it?](http://www.voxeu.org/article/italy-going-make-it), February 4, 2012, with Gianfranco Di Vaio and Giuseppe Ragusa. [PDF](assets/policy-media/public-web/VoxEu/ItalianDebtDynamics_04022012.pdf)
 
 **EuVisions**
 
@@ -35,11 +35,11 @@ title: "Policy & Media"
 - Default, i costi reali di un'ipotesi remota, November 22, 2019. [PDF](assets/policy-media/06-editoriale_sole_22112019.pdf)
 - Piu' trasparenza per ritrovare la fiducia dei risparmiatori, November 20, 2019. [PDF](assets/policy-media/07-editoriale_sole_19112019.pdf)
 - Investitori retail, la lezione del caso bio-on, November 1, 2019. [PDF](assets/policy-media/08-bioon_sole24ore_Nov2019.pdf)
-- I nodi irrisolti della direttiva sul bail-in, May 13, 2016, with Pietro Reichlin.
-- E-bond a prova di Berlino, December 11, 2010, with Pietro Reichlin.
-- L'Irlanda sta male ma non infetta, October 2, 2010, with Pietro Reichlin.
-- Un piano di salvataggio con piu' costi che utili, August 31, 2010, with Pietro Reichlin.
-- Tassare le banche incentivo all'azzardo, July 1, 2010, with Pietro Reichlin.
+- I nodi irrisolti della direttiva sul bail-in, May 13, 2016, with Pietro Reichlin. [PDF](assets/policy-media/public-web/Sole24Ore/I%20nodi%20irrisolti%20della%20direttiva%20sul%20bail-in%20Maggio%202016.pdf)
+- E-bond a prova di Berlino, December 11, 2010, with Pietro Reichlin. [PDF](assets/policy-media/public-web/Sole24Ore/e-bonds_11dec2010.pdf)
+- L'Irlanda sta male ma non infetta, October 2, 2010, with Pietro Reichlin. [PDF](assets/policy-media/public-web/Sole24Ore/Irlandastamalemanoninfetta-IlSole24ORE_2Oct2010.pdf)
+- Un piano di salvataggio con piu' costi che utili, August 31, 2010, with Pietro Reichlin. [PDF](assets/policy-media/public-web/Sole24Ore/PianoSalvataggio_Sole24Ore_31Aug2010.pdf)
+- Tassare le banche incentivo all'azzardo, July 1, 2010, with Pietro Reichlin. [PDF](assets/policy-media/public-web/Sole24Ore/Tassarelebancheincentivoall%27azzardo-IlSole24ORE_1July2010.pdf)
 
 **Lavoce.info**
 
@@ -50,22 +50,22 @@ title: "Policy & Media"
 - In Grecia torna il sereno, ma nuove nuvole in Europa, September 4, 2018.
 - E in Grecia per la Troika e' missione compiuta, June 22, 2018.
 - Germogli di crescita in Grecia. Ma e' davvero primavera?, September 15, 2017.
-- Grecia: la saga del debito e' sempre piu' una odissea, June 20, 2017.
-- Grecia, la fine della saga resta lontana, May 9, 2017.
-- BCE oltre il mandato. Ma per necessita', March 31, 2017.
-- Torna in scena lo scontro sul debito greco, February 21, 2017.
-- Piu' rischi che benefici dai piani individuali di risparmio, January 13, 2017.
+- Grecia: la saga del debito e' sempre piu' una odissea, June 20, 2017. [PDF](assets/policy-media/public-web/Lavoce/Grecia_%20la%20saga%20del%20debito%20e%CC%80%20sempre%20piu%CC%80%20un%E2%80%99odissea%20_%20N.pdf)
+- Grecia, la fine della saga resta lontana, May 9, 2017. [PDF](assets/policy-media/public-web/Lavoce/Grecia_%20la%20fine%20della%20saga%20resta%20lontana%20_%20N.pdf)
+- BCE oltre il mandato. Ma per necessita', March 31, 2017. [PDF](assets/policy-media/public-web/Lavoce/Bce%20oltre%20il%20mandato.pdf)
+- Torna in scena lo scontro sul debito greco, February 21, 2017. [PDF](assets/policy-media/public-web/Lavoce/Torna%20in%20scena%20lo%20scontro%20sul%20debito%20greco_21022017.pdf)
+- Piu' rischi che benefici dai piani individuali di risparmio, January 13, 2017. [PDF](assets/policy-media/public-web/Lavoce/Piu%CC%80%20rischi%20che%20benefici%20dai%20piani%20individuali%20di%20risparmio%20%7C%20N.%20Borri.pdf)
 
 **Linkiesta**
 
-- [Sei regole per non farsi spennare dalle banche](http://www.linkiesta.it/it/article/2016/01/08/sei-regole-per-non-farsi-spennare-dalle-banche/28819/), January 8, 2016.
-- Banche e fondi di investimento: separiamoli o saranno guai seri, December 21, 2015.
-- Le borse crollano, non prendetevela con Draghi, December 4, 2015.
-- Spending review, anche Renzi ha fallito, October 16, 2015.
-- Usiamo la flessibilita' per le riforme, non per il consenso, September 21, 2015.
-- Perche' il "funerale" della Tasi non convince, September 4, 2015.
-- Cina, il problema non e' economico ma politico, August 26, 2015.
-- Attenti all'euforia per il QE, inseguire i rendimenti passati costa caro, April 16, 2015.
+- [Sei regole per non farsi spennare dalle banche](http://www.linkiesta.it/it/article/2016/01/08/sei-regole-per-non-farsi-spennare-dalle-banche/28819/), January 8, 2016. [PDF](assets/policy-media/public-web/Linkiesta/Sei%20regole%20per%20non%20farsi%20spennare%20dalle%20banche%20-%20Linkiesta.it.pdf)
+- Banche e fondi di investimento: separiamoli o saranno guai seri, December 21, 2015. [PDF](assets/policy-media/public-web/Linkiesta/Banche%20e%20fondi%20d%E2%80%99investimento%3A%20separiamoli%20o%20saranno%20guai%20seri%20-%20Linkiesta.it.pdf)
+- Le borse crollano, non prendetevela con Draghi, December 4, 2015. [PDF](assets/policy-media/public-web/Linkiesta/Le%20Borse%20crollano_%20Non%20prendetevela%20con%20Draghi%20-%20Linkiesta.pdf)
+- Spending review, anche Renzi ha fallito, October 16, 2015. [PDF](assets/policy-media/public-web/Linkiesta/Spending%20review%2C%20anche%20Renzi%20ha%20fallito%20-%20Linkiesta.pdf)
+- Usiamo la flessibilita' per le riforme, non per il consenso, September 21, 2015. [PDF](assets/policy-media/public-web/Linkiesta/Usiamo%20la%20flessibilita%CC%80%20per%20le%20riforme%2C%20non%20per%20comprare%20il%20consenso%20-%20Linkiesta.pdf)
+- Perche' il "funerale" della Tasi non convince, September 4, 2015. [PDF](assets/policy-media/public-web/Linkiesta/Perche%CC%81%20il%20%E2%80%9Cfunerale%E2%80%9D%20della%20Tasi%20non%20convince%20per%20nulla.pdf)
+- Cina, il problema non e' economico ma politico, August 26, 2015. [PDF](assets/policy-media/public-web/Linkiesta/Cina%2C%20il%20problema%20non%20e%CC%80%20economico%20ma%20politico.pdf)
+- Attenti all'euforia per il QE, inseguire i rendimenti passati costa caro, April 16, 2015. [PDF](assets/policy-media/public-web/Linkiesta/borri_apr2015.pdf)
 
 :::
 ::: {.sidenav}

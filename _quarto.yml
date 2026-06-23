@@ -3,6 +3,7 @@ project:
   output-dir: _site
   resources:
     - CNAME
+    - assets/policy-media/public-web/
 
 website:
   title: "Nicola Borri"
