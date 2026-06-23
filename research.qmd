@@ -14,41 +14,35 @@ My papers are listed below.
 1. [Trading Frictions in Dynamic Cap-and-Trade Markets](https://www.nber.org/papers/w35356)<br>
    with Yukun Liu, Aleh Tsyvinski and Xi Wu. NBER Working Paper \#35356, June 2026. This paper subsumes the earlier *Inefficiencies of Carbon Trading Markets*. [arXiv](https://arxiv.org/abs/2408.06497) [SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4923646)
    <details class="abstract"><summary>Abstract</summary>
-   <p>Abstract to be added.</p>
+   <p>We develop a dynamic stochastic model of markets with an externality and multiple trading frictions, and cap-and-trade as the leading application. Slow participation, limited intermediation, and heterogeneous information interact in equilibrium: agents choose costly market access, access determines residual compliance demand, intermediary constraints translate residual demand into a surrender-month premium, and the premium feeds back into access incentives. These interactions shape how effectively the market corrects the externality. We characterize access choices in closed form, prove that the equilibrium premium is unique, and show that endogenous access dampens the response to each friction in isolation, while the interaction of multiple frictions is non-additive and can amplify the price response. We quantify the model using 2.7 million EU ETS registry transactions and compliance records from 2005-2021. About 40% of operators do not trade annually, purchases concentrate in April when returns are systematically high, and operator flow predicts future returns.</p>
    </details>
 
 2. [Forward Selection Fama-MacBeth Regression with Higher-Order Asset Pricing Factors](https://www.nber.org/papers/w33663)<br>
    with Denis Chetverikov, Yukun Liu and Aleh Tsyvinski. NBER Working Paper \#33663, April 2025. [SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5181447)
    <details class="abstract"><summary>Abstract</summary>
-   <p>Abstract to be added.</p>
+   <p>We show that the higher-orders and their interactions of the common sparse linear factors can effectively subsume the factor zoo. We propose a forward selection Fama-MacBeth procedure as a method to estimate a high-dimensional stochastic discount factor model, isolating the most relevant higher-order factors. Applying this approach to terms derived from six widely used factors (the Fama-French five-factor model and the momentum factor), we show that the resulting higher-order model with only a small number of selected higher-order terms significantly outperforms traditional benchmarks both in-sample and out-of-sample. Moreover, it effectively subsumes a majority of the factors from the extensive factor zoo, suggesting that the pricing power of most zoo factors is attributable to their exposure to higher-order terms of common linear factors.</p>
    </details>
 
 3. [One Factor to Bind the Cross-Section of Returns](https://www.nber.org/papers/w32365)<br>
    with Denis Chetverikov, Yukun Liu and Aleh Tsyvinski. NBER Working Paper \#32365, April 2024. [arXiv](https://arxiv.org/abs/2404.08129) [SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4791496)
    <details class="abstract"><summary>Abstract</summary>
-   <p>Abstract to be added.</p>
+   <p>We propose a new non-linear single-factor asset pricing model. Despite its parsimony, this model represents exactly any non-linear model with an arbitrary number of factors and loadings - a consequence of the Kolmogorov-Arnold representation theorem. It features only one pricing component comprising a nonparametric link function of the time-dependent factor and factor loading that we jointly estimate with sieve-based estimators. Using 171 assets across major classes, our model delivers superior cross-sectional performance with a low-dimensional approximation of the link function. Most known finance and macro factors become insignificant controlling for our single-factor.</p>
    </details>
 
 4. [Crypto Risk Premia](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4154627)<br>
    with Daniele Massacci, Mirco Rubin and Dario Ruzzi. Featured in [Risk.net](https://www.risk.net/investing/7952951/the-closer-quants-look-the-less-diversifying-crypto-appears), August 5 2022.
-   <details class="abstract"><summary>Abstract</summary>
-   <p>Abstract to be added.</p>
-   </details>
 
 5. [The Economics of Non-fungible Tokens](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4052045)<br>
    with Yukun Liu and Aleh Tsyvinski. Media coverage: Financial Times, Pour l'Eco, Chainlink Research Reports, and Investor's Chronicle.
-   <details class="abstract"><summary>Abstract</summary>
-   <p>Abstract to be added.</p>
-   </details>
 
 6. Redistributive Taxation with Skill Biased Technologies<br>
    with Pietro Reichlin.
 
 7. [Crypto Premium, Higher-Order Moments and Tail Risk](http://ssrn.com/abstract=3889169)<br>
-   with Paolo Santucci de Magistris. [Online Appendix](https://www.dropbox.com/s/sp9oq6ugevrfpol/Supplementary_Document_v1.pdf?dl=0)
+   with Paolo Santucci de Magistris. [Online Appendix](assets/research/Supplementary_Document_v1.pdf)
 
 8. [Wealth Taxes and Inequality](https://ssrn.com/abstract=3217067)<br>
-   with Pietro Reichlin. CEPR Discussion Paper No. 13067, July 2018. [Slides](https://www.dropbox.com/s/xravcni0ctowl9p/slides_wti_v0.pdf?dl=0)
+   with Pietro Reichlin. CEPR Discussion Paper No. 13067, July 2018. [Slides](assets/research/slides_wti_v0.pdf)
 
 9. [Limited Participation and Local Currency Sovereign Debt](http://ssrn.com/abstract=2978127)<br>
    with Kirill Shakhnov.
@@ -115,6 +109,34 @@ My papers are listed below.
 3. Corporate Finance in the Age of Fintech, in *Topics in Corporate Finance: Challenges, Opportunities, Debates, and Trends*, Springer Nature Switzerland, Cham, 2026, pp. 151-170.
 
 4. The COVID-19 Challenge to European Financial Markets. Lessons from Italy, in M. Billio and S. Varotto, eds., *A New World Post COVID-19*, Edizioni Ca' Foscari, 2020, pp. 137-148.
+
+5. Life Insurers' Asset-Liability Dependency and Low Interest-Rate Environment, with Rosaria Cerrone, Rosa Cocozza and Domenico Curcio, in M. Corazza, M. Durban, A. Grane, C. Perna and M. Sibillo, eds., *Mathematical and Statistical Methods for Actuarial Sciences and Finance*, Springer, 2018.
+
+### Other Publications
+
+1. European Equity Markets, SMEs and the Growth Challenge<br>
+   with Giorgio Di Giorgio. *Rivista Bancaria*, 1, pp. 9-52, 2024.
+
+2. Fintech: scenari possibili e sfide per una possibile finanza del futuro<br>
+   *Rivista di Politica Economica*, Vol. 2, 2022.
+
+3. Financial Intermediaries' Asset-Liability Dependency and Low-Interest Rate Environment: Evidence from EU Life Insurers<br>
+   with Rosaria Cerrone, Rosa Cocozza and Domenico Curcio. *Journal of Financial Management, Markets and Institutions*, Vol. 7, No. 1, 2019.
+
+4. The Performance of Market-Timing Strategies of Italian Mutual Fund Investors<br>
+   with Alberto Cagnazzo. *Economic Notes*, Vol. 47, No. 1, pp. 5-20, 2018.
+
+5. L'asset allocation in presenza di tassi di interesse negativi<br>
+   with Enrico Maria Cervellati, Domenico Curcio and Antonio Fasano. *I Quaderni di Minerva Bancaria*, 2016.
+
+6. Systemic Risk in the Italian Banking Industry<br>
+   with Marianna Caccavaio, Giorgio Di Giorgio and Alberto Sorrentino. *Economic Notes*, 43, 1, pp. 21-38, 2014.
+
+7. I Debiti Sovrani nell'Area Euro: Implicazioni per la Gestione e la Distribuzione dei Prodotti di Risparmio<br>
+   with Filippo Russo. *Rivista Bancaria*, 5-6, 2011.
+
+8. System Risk in the European Banking Sector<br>
+   with Marianna Caccavaio, Giorgio Di Giorgio and Alberto Sorrentino, in G. Bracchi and D. Mascianadaro, eds., *La Banca Commerciale nella Crisi dei Mercati*, Fondazione Rosselli, EDIBANK, 2012.
 
 :::
 ::: {.sidenav}

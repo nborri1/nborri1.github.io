@@ -30,11 +30,11 @@ title: "Policy & Media"
 
 **Il Sole 24 Ore**
 
-- Europa e Stati Uniti: perche' sono due inflazioni diverse, July 21, 2022. [PDF](https://www.dropbox.com/s/d8jqfieersvviaw/borri_sole24ore_21_luglio_2022.pdf?dl=0)
-- [Linee di credito a lungo termine per convincere i rigoristi del nord](https://www.ilsole24ore.com/art/linee-credito-lungo-termine-convincere-rigoristi-nord-AD1KvpF), March 26, 2020, with Salvatore Nistico and Pietro Reichlin. [PDF](https://www.dropbox.com/s/ls3ymulyqhebgjf/analisi_covid19_sole_03262020.pdf?dl=0)
-- Default, i costi reali di un'ipotesi remota, November 22, 2019. [PDF](https://www.dropbox.com/s/3waz8osbmdohudx/editoriale_sole_22112019.pdf?dl=0)
-- Piu' trasparenza per ritrovare la fiducia dei risparmiatori, November 20, 2019. [PDF](https://www.dropbox.com/s/6bclzy8kyc9vrsq/editoriale_sole_19112019.pdf?dl=0)
-- Investitori retail, la lezione del caso bio-on, November 1, 2019. [PDF](https://www.dropbox.com/s/b7ejjc8v0ooign7/bioon_sole24ore_Nov2019.pdf?dl=0)
+- Europa e Stati Uniti: perche' sono due inflazioni diverse, July 21, 2022. [PDF](assets/policy-media/04-borri_sole24ore_21_luglio_2022.pdf)
+- [Linee di credito a lungo termine per convincere i rigoristi del nord](https://www.ilsole24ore.com/art/linee-credito-lungo-termine-convincere-rigoristi-nord-AD1KvpF), March 26, 2020, with Salvatore Nistico and Pietro Reichlin. [PDF](assets/policy-media/05-analisi_covid19_sole_03262020.pdf)
+- Default, i costi reali di un'ipotesi remota, November 22, 2019. [PDF](assets/policy-media/06-editoriale_sole_22112019.pdf)
+- Piu' trasparenza per ritrovare la fiducia dei risparmiatori, November 20, 2019. [PDF](assets/policy-media/07-editoriale_sole_19112019.pdf)
+- Investitori retail, la lezione del caso bio-on, November 1, 2019. [PDF](assets/policy-media/08-bioon_sole24ore_Nov2019.pdf)
 - I nodi irrisolti della direttiva sul bail-in, May 13, 2016, with Pietro Reichlin.
 - E-bond a prova di Berlino, December 11, 2010, with Pietro Reichlin.
 - L'Irlanda sta male ma non infetta, October 2, 2010, with Pietro Reichlin.
