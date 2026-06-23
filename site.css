@@ -169,6 +169,7 @@ a:hover {
   max-width: 220px;
   display: block;
   margin: 1.25rem auto 0;
+  transform: translateX(-3mm);
   aspect-ratio: 1 / 1;
   object-fit: cover;
   object-position: center top;
