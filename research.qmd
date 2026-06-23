@@ -91,8 +91,11 @@ My papers are listed below.
    <p>We use sovereign CDS contracts with different currencies and default clauses to estimate Eurozone breakup risk and the propagation of breakup and default risks after the COVID-19 shock. We find that breakup risk is significant, though not larger than before the shock, and that increases in redenomination risk in one country are associated with higher default premia and bond spreads elsewhere in the Eurozone. A sizeable part of the cost of insuring against redenomination and default also reflects expected euro depreciation conditional on redenomination and CDS-market liquidity premia.</p>
    </details>
 
-7. [The Great Lockdown: Inactive Workers and Mortality by Covid-19](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3689120)<br>
-   with Francesco Drago, Chiara Santantonio and Francesco Sobbrio. *Health Economics*, Vol. 30, No. 10, September 2021, pp. 2376-2382. [VoxEU column](https://voxeu.org/article/inactive-workers-and-mortality-due-covid-19-evidence-italy)
+7. The Great Lockdown: Inactive Workers and Mortality by Covid-19<br>
+   with Francesco Drago, Chiara Santantonio and Francesco Sobbrio. *Health Economics*, Vol. 30, No. 10, September 2021, pp. 2367-2382. [SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3689120) [Published version](https://onlinelibrary.wiley.com/doi/10.1002/hec.4383) [VoxEU column](https://voxeu.org/article/inactive-workers-and-mortality-due-covid-19-evidence-italy)
+   <details class="abstract"><summary>Abstract</summary>
+   <p>We study the causal effects of Italy's March 22, 2020 economic lockdown on Covid-19 mortality and mobility. The empirical design exploits municipality-level variation in the active population induced by the closure of non-essential activities, comparing municipalities with larger and smaller changes before and after the lockdown within provinces. The results show that more intense lockdown exposure significantly reduced Covid-19 mortality, especially among older age groups, with back-of-the-envelope calculations indicating thousands of deaths avoided in the most affected municipalities.</p>
+   </details>
 
 8. [Global Risk in Long-Term Sovereign Debt](http://ssrn.com/abstract=3083642)<br>
    with Kirill Shakhnov. *Review of Asset Pricing Studies*, Vol. 11, No. 3, September 2021, pp. 654-693. [Published version](https://academic.oup.com/raps/article/11/3/654/6278366)
