@@ -1,0 +1,149 @@
+[
+  {
+    "objectID": "research.html",
+    "href": "research.html",
+    "title": "Research",
+    "section": "",
+    "text": "Add current working papers here.\nFor each paper, use this format:\nPaper Title\nwith Coauthor Name\nStatus or short description.\nPDF | SSRN | Code | Slides"
+  },
+  {
+    "objectID": "research.html#working-papers",
+    "href": "research.html#working-papers",
+    "title": "Research",
+    "section": "",
+    "text": "Add current working papers here.\nFor each paper, use this format:\nPaper Title\nwith Coauthor Name\nStatus or short description.\nPDF | SSRN | Code | Slides"
+  },
+  {
+    "objectID": "research.html#publications",
+    "href": "research.html#publications",
+    "title": "Research",
+    "section": "Publications",
+    "text": "Publications\nAdd published papers here, grouped either by year or by topic."
+  },
+  {
+    "objectID": "research.html#research-areas",
+    "href": "research.html#research-areas",
+    "title": "Research",
+    "section": "Research Areas",
+    "text": "Research Areas\n\nAsset pricing\nCrypto and blockchain markets\nMacro-finance\nFinancial intermediation\nAI and financial markets, if this becomes a stable public research line"
+  },
+  {
+    "objectID": "teaching.html",
+    "href": "teaching.html",
+    "title": "Teaching",
+    "section": "",
+    "text": "Add current and recent courses here."
+  },
+  {
+    "objectID": "teaching.html#luiss-courses",
+    "href": "teaching.html#luiss-courses",
+    "title": "Teaching",
+    "section": "",
+    "text": "Add current and recent courses here."
+  },
+  {
+    "objectID": "teaching.html#computational-material",
+    "href": "teaching.html#computational-material",
+    "title": "Teaching",
+    "section": "Computational Material",
+    "text": "Computational Material\nAdd links to Python, MATLAB, Bloomberg, or empirical finance material."
+  },
+  {
+    "objectID": "teaching.html#executive-and-policy-teaching",
+    "href": "teaching.html#executive-and-policy-teaching",
+    "title": "Teaching",
+    "section": "Executive and Policy Teaching",
+    "text": "Executive and Policy Teaching\nAdd executive education or policy-facing teaching material if useful."
+  },
+  {
+    "objectID": "cv.html",
+    "href": "cv.html",
+    "title": "CV",
+    "section": "",
+    "text": "The current CV is available here:\nDownload CV"
+  },
+  {
+    "objectID": "resources.html",
+    "href": "resources.html",
+    "title": "Resources",
+    "section": "",
+    "text": "This page can collect research notes, tools, student resources, and public-good material.\nPossible sections:\n\nResearch tools\nAI and coding resources for economists\nData sources\nNotes for students\nReplication and reproducibility material"
+  },
+  {
+    "objectID": "data-code.html",
+    "href": "data-code.html",
+    "title": "Data & Code",
+    "section": "",
+    "text": "This page collects public datasets, code, replication packages, and research resources."
+  },
+  {
+    "objectID": "data-code.html#public-data",
+    "href": "data-code.html#public-data",
+    "title": "Data & Code",
+    "section": "Public Data",
+    "text": "Public Data\nAdd data projects here."
+  },
+  {
+    "objectID": "data-code.html#code-and-replication-packages",
+    "href": "data-code.html#code-and-replication-packages",
+    "title": "Data & Code",
+    "section": "Code and Replication Packages",
+    "text": "Code and Replication Packages\nAdd GitHub, Zenodo, OSF, SSRN, or journal replication links here."
+  },
+  {
+    "objectID": "data-code.html#notes",
+    "href": "data-code.html#notes",
+    "title": "Data & Code",
+    "section": "Notes",
+    "text": "Notes\nAvoid hosting very large datasets directly inside the website repository. For large files, use a stable external repository and link to it."
+  },
+  {
+    "objectID": "policy-media.html",
+    "href": "policy-media.html",
+    "title": "Policy & Media",
+    "section": "",
+    "text": "Add policy notes, reports, VoxEU pieces, and public-facing research essays."
+  },
+  {
+    "objectID": "policy-media.html#policy-writing",
+    "href": "policy-media.html#policy-writing",
+    "title": "Policy & Media",
+    "section": "",
+    "text": "Add policy notes, reports, VoxEU pieces, and public-facing research essays."
+  },
+  {
+    "objectID": "policy-media.html#media",
+    "href": "policy-media.html#media",
+    "title": "Policy & Media",
+    "section": "Media",
+    "text": "Media\nAdd interviews, podcasts, radio, TV, newspaper quotes, and event recordings."
+  },
+  {
+    "objectID": "policy-media.html#events",
+    "href": "policy-media.html#events",
+    "title": "Policy & Media",
+    "section": "Events",
+    "text": "Events\nAdd selected public events, panels, and keynote-style talks."
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Nicola Borri",
+    "section": "",
+    "text": "Professor of Finance, Luiss University\nAsset Pricing | Crypto & Blockchain | Macro-Finance | Financial Markets\nI am Professor of Finance at Luiss University. My research studies asset pricing, financial markets, and crypto/blockchain markets, with a focus on empirical evidence, risk premia, and market design.\nCV | Research | Data & Code | Google Scholar | SSRN"
+  },
+  {
+    "objectID": "index.html#selected-research",
+    "href": "index.html#selected-research",
+    "title": "Nicola Borri",
+    "section": "Selected Research",
+    "text": "Selected Research\nAdd 3-5 selected papers here. Keep this section short. The full list goes on the Research page."
+  },
+  {
+    "objectID": "index.html#data-code-and-teaching",
+    "href": "index.html#data-code-and-teaching",
+    "title": "Nicola Borri",
+    "section": "Data, Code, and Teaching",
+    "text": "Data, Code, and Teaching\nUse this section to point readers to datasets, replication files, and teaching material."
+  }
+]
