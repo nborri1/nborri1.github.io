@@ -127,14 +127,23 @@ My papers are listed below.
     <p>This paper studies spillovers in Eurozone redenomination risk using sovereign CDS contracts with different currencies and default clauses. The evidence shows that redenomination risk is not only country-specific: shocks to redenomination premia in one member country are associated with higher sovereign risk in others. The results point to an important cross-country channel in Eurozone financial stress.</p>
     </details>
 
-13. [The Housing Cost Disease](http://papers.ssrn.com/sol3/papers.cfm?abstract_id=2631127)<br>
-    with Pietro Reichlin. *Journal of Economic Dynamics and Control*, Vol. 87, February 2018, pp. 106-123.
+13. The Housing Cost Disease<br>
+    with Pietro Reichlin. *Journal of Economic Dynamics and Control*, Vol. 87, February 2018, pp. 106-123. [SSRN](http://papers.ssrn.com/sol3/papers.cfm?abstract_id=2631127) [Published version](https://www.sciencedirect.com/science/article/pii/S016518891730249X)
+    <details class="abstract"><summary>Abstract</summary>
+    <p>Using a simple two-sector life cycle economy with housing services and bequests, we show that a rising labor efficiency in the general economy relative to the construction sector can go a long way toward explaining a significant fraction of the rising trends in wealth-to-income ratios, housing wealth, and wealth inequality, that have been documented in most advanced countries at least since the '70s. This mechanism, which we label housing cost disease, has adverse effects on social welfare when the Planner puts sufficient weight on the less wealthy households.</p>
+    </details>
 
-14. [Local Currency Systemic Risk](http://ssrn.com/abstract=2971049)<br>
-    *Emerging Markets Review*, Vol. 34, 2018, pp. 111-123.
+14. Local Currency Systemic Risk<br>
+    *Emerging Markets Review*, Vol. 34, 2018, pp. 111-123. [SSRN](http://ssrn.com/abstract=2971049) [Published version](https://www.sciencedirect.com/science/article/pii/S1566014117302145)
+    <details class="abstract"><summary>Abstract</summary>
+    <p>Emerging country governments increasingly issue local currency denominated bonds and foreign investors have been increasing their holdings of these assets. By issuing debt denominated in local currency, emerging country governments eliminate exchange rate risk. The growing stock of local currency government debt in the financial portfolios of foreign investors increases their diversification and exposure to fast growing economies. In this paper, we highlight some of the risks associated to this recent trend. First, we adopt the CoVaR risk-measure to estimate the vulnerability of individual countries to systemic risk in the market for local currency government debt. Second, we show that our country-level estimates of vulnerability increase with the share of local currency debt held by foreign investors. A version of the old adage "When New York sneezes, London catches a cold," used often to describe the relationship between the stock markets in these two cities, still applies between individual emerging countries and the aggregate market for local currency government debt.</p>
+    </details>
 
-15. [Sensitivity, Moment Conditions, and the Risk-Free Rate in Yogo (2006)](https://papers.ssrn.com/sol3/papers2.cfm?abstract_id=2855792)<br>
-    with Giuseppe Ragusa. *Critical Finance Review*, Vol. 6, No. 2, pp. 381-393, 2017. [Replication files](http://www.nowpublishers.com/article/details/supplementary-info/104.00000050_supp.zip)
+15. Sensitivity, Moment Conditions, and the Risk-Free Rate in Yogo (2006)<br>
+    with Giuseppe Ragusa. *Critical Finance Review*, Vol. 6, No. 2, pp. 381-393, 2017. [SSRN](https://papers.ssrn.com/sol3/papers2.cfm?abstract_id=2855792) [Published version](https://cfr.ivo-welch.org/published/papers/borri2017sensitivity.pdf) [Replication files](http://www.nowpublishers.com/article/details/supplementary-info/104.00000050_supp.zip)
+    <details class="abstract"><summary>Abstract</summary>
+    <p>In this paper, we show that results presented in the seminal paper by Yogo, A Consumption Based Explanation of Expected Stock Returns, cannot be replicated. We find different estimates for the parameters and we obtain values of over-identified statistics that, being much larger than those in the original paper, indicate rejection of the durable consumption asset pricing model. By careful inspection of Yogo's replication files, we were able to track down the inconsistency to a coding bug. The rejection of the durable model is exemplified by its inability to simultaneously explain the risk-free rate and excess stock returns.</p>
+    </details>
 
 ### Books and Chapters
 
