@@ -23,8 +23,7 @@ This page will collect public replication packages, code, and datasets associate
 
 [Google Scholar](https://scholar.google.com/citations?user=Z4QMV08AAAAJ&hl=en&oi=ao)<br>
 [SSRN](https://papers.ssrn.com/sol3/cf_dev/AbsByAuth.cfm?per_id=1131728)<br>
-[RePEc](https://ideas.repec.org/f/pbo330.html)<br>
-[CitEc](http://citec.repec.org/p/b/pbo330.html)
+[arXiv](https://arxiv.org/search/econ?searchtype=author&query=Borri,+N)
 
 :::
 ::: {.sidenav}
