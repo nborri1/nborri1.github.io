@@ -12,19 +12,19 @@ My papers are listed below.
 ### Working Papers
 
 1. [Trading Frictions in Dynamic Cap-and-Trade Markets](https://www.nber.org/papers/w35356)<br>
-   with Yukun Liu, Aleh Tsyvinski and Xi Wu. NBER Working Paper \#35356, June 2026. [arXiv](https://arxiv.org/abs/2606.03767) [SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4923646). This paper subsumes the earlier *Inefficiencies of Carbon Trading Markets* ([arXiv](https://arxiv.org/abs/2408.06497)).
+   with Yukun Liu, Aleh Tsyvinski and Xi Wu (Submitted). NBER Working Paper \#35356, June 2026. [arXiv](https://arxiv.org/abs/2606.03767) [SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4923646). This paper subsumes the earlier *Inefficiencies of Carbon Trading Markets* ([arXiv](https://arxiv.org/abs/2408.06497)).
    <details class="abstract"><summary>Abstract</summary>
    <p>We develop a dynamic stochastic model of markets with an externality and multiple trading frictions, and cap-and-trade as the leading application. Slow participation, limited intermediation, and heterogeneous information interact in equilibrium: agents choose costly market access, access determines residual compliance demand, intermediary constraints translate residual demand into a surrender-month premium, and the premium feeds back into access incentives. These interactions shape how effectively the market corrects the externality. We characterize access choices in closed form, prove that the equilibrium premium is unique, and show that endogenous access dampens the response to each friction in isolation, while the interaction of multiple frictions is non-additive and can amplify the price response. We quantify the model using 2.7 million EU ETS registry transactions and compliance records from 2005-2021. About 40% of operators do not trade annually, purchases concentrate in April when returns are systematically high, and operator flow predicts future returns.</p>
    </details>
 
 2. [Forward Selection Fama-MacBeth Regression with Higher-Order Asset Pricing Factors](https://www.nber.org/papers/w33663)<br>
-   with Denis Chetverikov, Yukun Liu and Aleh Tsyvinski. NBER Working Paper \#33663, April 2025. [arXiv](https://arxiv.org/abs/2503.23501) [SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5181447)
+   with Denis Chetverikov, Yukun Liu and Aleh Tsyvinski (Submitted). NBER Working Paper \#33663, April 2025. [arXiv](https://arxiv.org/abs/2503.23501) [SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5181447)
    <details class="abstract"><summary>Abstract</summary>
    <p>We show that the higher-order terms and interactions of the common sparse linear factors are significantly priced in the cross-section of equity returns. A higher-order model with only a small number of selected higher-order terms from six widely used factors outperforms traditional benchmarks both in-sample and out-of-sample. It also substantially reduces the alphas of the extensive factor zoo, suggesting that the pricing power of many zoo factors is attributable to their exposure to higher-order terms of common linear factors. We identify and rank the most relevant higher-order terms by developing a forward selection Fama-MacBeth procedure.</p>
    </details>
 
 3. [One Factor to Bind the Cross-Section of Returns](https://www.nber.org/papers/w32365)<br>
-   with Denis Chetverikov, Yukun Liu and Aleh Tsyvinski. NBER Working Paper \#32365, April 2024. [arXiv](https://arxiv.org/abs/2404.08129) [SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4791496)
+   with Denis Chetverikov, Yukun Liu and Aleh Tsyvinski (Revise and Resubmit, Journal of Finance). NBER Working Paper \#32365, April 2024. [arXiv](https://arxiv.org/abs/2404.08129) [SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4791496)
    <details class="abstract"><summary>Abstract</summary>
    <p>We propose a new non-linear single-factor asset pricing model. Despite its parsimony, this model represents exactly any non-linear model with an arbitrary number of factors and loadings - a consequence of the Kolmogorov-Arnold representation theorem. It features only one pricing component, comprising a nonparametric link function of the time-dependent factor and factor loading that we jointly estimate with sieve-based estimators. Using 171 assets across major classes, our model delivers superior cross-sectional performance with a low-dimensional approximation of the link function. Most known finance and macro factors become insignificant controlling for our single-factor.</p>
    </details>
@@ -33,7 +33,7 @@ My papers are listed below.
    with Daniele Massacci, Mirco Rubin and Dario Ruzzi. Featured in [Risk.net](https://www.risk.net/investing/7952951/the-closer-quants-look-the-less-diversifying-crypto-appears), August 5 2022.
 
 5. [The Economics of Non-fungible Tokens](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4052045)<br>
-   with Yukun Liu and Aleh Tsyvinski. Media coverage: Financial Times, Pour l'Eco, Chainlink Research Reports, and Investor's Chronicle.
+   with Yukun Liu and Aleh Tsyvinski (Submitted). Media coverage: Financial Times, Pour l'Eco, Chainlink Research Reports, and Investor's Chronicle.
 
 6. Redistributive Taxation with Skill Biased Technologies<br>
    with Pietro Reichlin.
