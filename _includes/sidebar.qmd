@@ -8,4 +8,4 @@
 
 [POLICY & MEDIA](policy-media.qmd)
 
-![Nicola Borri](assets/img/nicola-borri.jpg){.profile-photo}
+<img src="assets/img/nicola-borri.jpg" alt="Nicola Borri" class="profile-photo">

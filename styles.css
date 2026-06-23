@@ -82,7 +82,7 @@ h2 {
   margin: 0.25rem 0 1.5rem;
 }
 
-.main-section > h3 {
+.main-section h3 {
   font-family: "DM Sans", sans-serif;
   font-size: 0.72rem;
   font-weight: 500;
@@ -264,7 +264,7 @@ b {
     font-size: 1rem;
   }
 
-  .main-section > h3 {
+  .main-section h3 {
     font-size: 0.68rem;
   }
 }
