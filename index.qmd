@@ -25,6 +25,10 @@ Luiss University
 
 [Data and code resources are listed here.](data-code.qmd)
 
+### Discussions
+
+[Discussion slides are listed here.](discussions.qmd)
+
 ### Policy & Media
 
 [Policy writings and media pieces are listed here.](policy-media.qmd)

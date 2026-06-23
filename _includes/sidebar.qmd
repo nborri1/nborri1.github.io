@@ -6,6 +6,8 @@
 
 [DATA & CODE](data-code.qmd)
 
+[DISCUSSIONS](discussions.qmd)
+
 [POLICY & MEDIA](policy-media.qmd)
 
 <img src="assets/img/nicola-borri.jpg" alt="Nicola Borri" class="profile-photo">
