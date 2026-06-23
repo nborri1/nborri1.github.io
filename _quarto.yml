@@ -11,7 +11,7 @@ website:
 format:
   html:
     theme: cosmo
-    css: styles.css
+    css: site.css
     toc: false
     page-layout: full
     title-block-style: none
