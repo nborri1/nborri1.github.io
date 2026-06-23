@@ -62,7 +62,7 @@ My papers are listed below.
    </details>
 
 2. Systemic Risk in the European Insurance Sector<br>
-   with Giovanni Bonaccolto, Andrea Consiglio and Giorgio Di Giorgio. *Journal of Financial Stability*, Vol. 84, 2026. [arXiv](https://arxiv.org/abs/2505.02635)
+   with Giovanni Bonaccolto, Andrea Consiglio and Giorgio Di Giorgio. *Journal of Financial Stability*, Vol. 84, 2026. [arXiv](https://arxiv.org/abs/2505.02635) [Published version](https://www.sciencedirect.com/science/article/pii/S1572308926000483)
    <details class="abstract"><summary>Abstract</summary>
    <p>This paper studies systemic-risk connectedness in the European insurance sector at three levels of granularity: across major segments of financial markets, across insurance subsectors, and across individual insurance companies. Using a common connectedness framework applied to returns, volatility, value-at-risk, and expected shortfall, we document that insurers are an important component of systemic-risk connectedness, especially during stress episodes. We also provide reduced-form evidence on economically relevant channels in the European institutional setting: aggregate insurer spillovers co-move with term spreads, sovereign spreads, and funding stress, and firm-level insurer-to-bank spillovers vary with sovereign risk and domestic sovereign-bond home bias in a way consistent with a balance-sheet channel. The analysis further reveals substantial heterogeneity across subsectors and identifies a stable core of systemically central insurers in firm-level networks.</p>
    </details>
