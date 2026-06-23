@@ -50,11 +50,11 @@ title: "Policy & Media"
 - In Grecia torna il sereno, ma nuove nuvole in Europa, September 4, 2018.
 - E in Grecia per la Troika e' missione compiuta, June 22, 2018.
 - Germogli di crescita in Grecia. Ma e' davvero primavera?, September 15, 2017.
-- Grecia: la saga del debito e' sempre piu' una odissea, June 20, 2017. [PDF](assets/policy-media/public-web/Lavoce/Grecia_%20la%20saga%20del%20debito%20e%CC%80%20sempre%20piu%CC%80%20un%E2%80%99odissea%20_%20N.pdf)
+- Grecia: la saga del debito e' sempre piu' una odissea, June 20, 2017. [PDF](assets/policy-media/public-web/linked/lavoce-grecia-saga-debito-2017.pdf)
 - Grecia, la fine della saga resta lontana, May 9, 2017. [PDF](assets/policy-media/public-web/Lavoce/Grecia_%20la%20fine%20della%20saga%20resta%20lontana%20_%20N.pdf)
 - BCE oltre il mandato. Ma per necessita', March 31, 2017. [PDF](assets/policy-media/public-web/Lavoce/Bce%20oltre%20il%20mandato.pdf)
 - Torna in scena lo scontro sul debito greco, February 21, 2017. [PDF](assets/policy-media/public-web/Lavoce/Torna%20in%20scena%20lo%20scontro%20sul%20debito%20greco_21022017.pdf)
-- Piu' rischi che benefici dai piani individuali di risparmio, January 13, 2017. [PDF](assets/policy-media/public-web/Lavoce/Piu%CC%80%20rischi%20che%20benefici%20dai%20piani%20individuali%20di%20risparmio%20%7C%20N.%20Borri.pdf)
+- Piu' rischi che benefici dai piani individuali di risparmio, January 13, 2017. [PDF](assets/policy-media/public-web/linked/lavoce-pir-rischi-benefici-2017.pdf)
 
 **Linkiesta**
 
@@ -62,9 +62,9 @@ title: "Policy & Media"
 - Banche e fondi di investimento: separiamoli o saranno guai seri, December 21, 2015. [PDF](assets/policy-media/public-web/Linkiesta/Banche%20e%20fondi%20d%E2%80%99investimento%3A%20separiamoli%20o%20saranno%20guai%20seri%20-%20Linkiesta.it.pdf)
 - Le borse crollano, non prendetevela con Draghi, December 4, 2015. [PDF](assets/policy-media/public-web/Linkiesta/Le%20Borse%20crollano_%20Non%20prendetevela%20con%20Draghi%20-%20Linkiesta.pdf)
 - Spending review, anche Renzi ha fallito, October 16, 2015. [PDF](assets/policy-media/public-web/Linkiesta/Spending%20review%2C%20anche%20Renzi%20ha%20fallito%20-%20Linkiesta.pdf)
-- Usiamo la flessibilita' per le riforme, non per il consenso, September 21, 2015. [PDF](assets/policy-media/public-web/Linkiesta/Usiamo%20la%20flessibilita%CC%80%20per%20le%20riforme%2C%20non%20per%20comprare%20il%20consenso%20-%20Linkiesta.pdf)
-- Perche' il "funerale" della Tasi non convince, September 4, 2015. [PDF](assets/policy-media/public-web/Linkiesta/Perche%CC%81%20il%20%E2%80%9Cfunerale%E2%80%9D%20della%20Tasi%20non%20convince%20per%20nulla.pdf)
-- Cina, il problema non e' economico ma politico, August 26, 2015. [PDF](assets/policy-media/public-web/Linkiesta/Cina%2C%20il%20problema%20non%20e%CC%80%20economico%20ma%20politico.pdf)
+- Usiamo la flessibilita' per le riforme, non per il consenso, September 21, 2015. [PDF](assets/policy-media/public-web/linked/linkiesta-flessibilita-riforme-2015.pdf)
+- Perche' il "funerale" della Tasi non convince, September 4, 2015. [PDF](assets/policy-media/public-web/linked/linkiesta-funerale-tasi-2015.pdf)
+- Cina, il problema non e' economico ma politico, August 26, 2015. [PDF](assets/policy-media/public-web/linked/linkiesta-cina-problema-politico-2015.pdf)
 - Attenti all'euforia per il QE, inseguire i rendimenti passati costa caro, April 16, 2015. [PDF](assets/policy-media/public-web/Linkiesta/borri_apr2015.pdf)
 
 :::
