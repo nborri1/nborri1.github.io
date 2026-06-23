@@ -97,11 +97,17 @@ My papers are listed below.
    <p>We study the causal effects of Italy's March 22, 2020 economic lockdown on Covid-19 mortality and mobility. The empirical design exploits municipality-level variation in the active population induced by the closure of non-essential activities, comparing municipalities with larger and smaller changes before and after the lockdown within provinces. The results show that more intense lockdown exposure significantly reduced Covid-19 mortality, especially among older age groups, with back-of-the-envelope calculations indicating thousands of deaths avoided in the most affected municipalities.</p>
    </details>
 
-8. [Global Risk in Long-Term Sovereign Debt](http://ssrn.com/abstract=3083642)<br>
-   with Kirill Shakhnov. *Review of Asset Pricing Studies*, Vol. 11, No. 3, September 2021, pp. 654-693. [Published version](https://academic.oup.com/raps/article/11/3/654/6278366)
+8. Global Risk in Long-Term Sovereign Debt<br>
+   with Kirill Shakhnov. *Review of Asset Pricing Studies*, Vol. 11, No. 3, September 2021, pp. 654-693. [SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3083642) [Published version](https://academic.oup.com/raps/article-abstract/11/3/654/6278366?redirectedFrom=fulltext)
+   <details class="abstract"><summary>Abstract</summary>
+   <p>We study emerging-market government bonds issued in local currency across maturities. Foreign investors are exposed to interest-rate, currency, and credit risks, but the evidence shows that default premia contribute little to carry-trade returns, while term premia are large and increase with maturity. An affine model with default risk can match these facts only when the permanent component of stochastic discount factors differs across emerging markets.</p>
+   </details>
 
-9. [Optimal Taxation with Homeownership and Wealth Inequality](https://www.sciencedirect.com/science/article/pii/S109420252030079X)<br>
-   with Pietro Reichlin. *Review of Economic Dynamics*, Vol. 40, April 2021, pp. 64-84.
+9. Optimal Taxation with Homeownership and Wealth Inequality<br>
+   with Pietro Reichlin. *Review of Economic Dynamics*, Vol. 40, April 2021, pp. 64-84. [SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3489157) [Published version](https://www.sciencedirect.com/science/article/pii/S109420252030079X)
+   <details class="abstract"><summary>Abstract</summary>
+   <p>We study optimal taxation in an economy where housing is both a consumption good and a store of wealth. Because homeownership affects the distribution of wealth and the allocation of capital, the tax treatment of housing has important distributional and efficiency consequences. The analysis characterizes how optimal policy trades off redistribution, capital accumulation, and distortions in housing investment.</p>
+   </details>
 
 10. Regulation Spillovers across Cryptocurrency Markets<br>
     with Kirill Shakhnov. *Finance Research Letters*, Vol. 36, October 2020. [SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3343696) [Published version](https://www.sciencedirect.com/science/article/pii/S1544612319307470)
@@ -109,11 +115,17 @@ My papers are listed below.
     <p>We study how domestic restrictions on cryptocurrency trading can spill across international markets. Using China's 2017 regulatory shock, which sharply reduced domestic bitcoin trading, we document large spillovers to trading volume and relative bitcoin prices in other currency markets, especially Korean won, Japanese yen, U.S. dollar pairs, and Chinese peer-to-peer exchanges.</p>
     </details>
 
-11. [Conditional Tail-Risk in Cryptocurrency Markets](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3162038)<br>
-    *Journal of Empirical Finance*, Vol. 50, January 2019, pp. 1-19.
+11. Conditional Tail-Risk in Cryptocurrency Markets<br>
+    *Journal of Empirical Finance*, Vol. 50, January 2019, pp. 1-19. [SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3162038) [Published version](https://www.sciencedirect.com/science/article/pii/S0927539818300781)
+    <details class="abstract"><summary>Abstract</summary>
+    <p>This paper measures tail risk and spillovers in cryptocurrency markets using conditional risk measures. The analysis shows that cryptocurrency returns display substantial downside risk and cross-market dependence, with tail events in large cryptocurrencies associated with stress in other crypto assets. The results document economically meaningful systemic-risk linkages within cryptocurrency markets.</p>
+    </details>
 
-12. [Redenomination-Risk Spillovers in the Eurozone](https://ssrn.com/abstract=3244471)<br>
-    *Economics Letters*, Vol. 174, January 2019, pp. 173-178.
+12. Redenomination-Risk Spillovers in the Eurozone<br>
+    *Economics Letters*, Vol. 174, January 2019, pp. 173-178. [SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3244471) [Published version](https://www.sciencedirect.com/science/article/pii/S0165176518304713)
+    <details class="abstract"><summary>Abstract</summary>
+    <p>This paper studies spillovers in Eurozone redenomination risk using sovereign CDS contracts with different currencies and default clauses. The evidence shows that redenomination risk is not only country-specific: shocks to redenomination premia in one member country are associated with higher sovereign risk in others. The results point to an important cross-country channel in Eurozone financial stress.</p>
+    </details>
 
 13. [The Housing Cost Disease](http://papers.ssrn.com/sol3/papers.cfm?abstract_id=2631127)<br>
     with Pietro Reichlin. *Journal of Economic Dynamics and Control*, Vol. 87, February 2018, pp. 106-123.
