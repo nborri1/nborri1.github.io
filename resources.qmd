@@ -1,0 +1,13 @@
+---
+title: "Resources"
+---
+
+This page can collect research notes, tools, student resources, and public-good material.
+
+Possible sections:
+
+- Research tools
+- AI and coding resources for economists
+- Data sources
+- Notes for students
+- Replication and reproducibility material

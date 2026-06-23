@@ -1,0 +1,25 @@
+---
+title: "Nicola Borri"
+---
+
+::: {.home-intro}
+
+# Nicola Borri
+
+Professor of Finance, Luiss University
+
+Asset Pricing | Crypto & Blockchain | Macro-Finance | Financial Markets
+
+I am Professor of Finance at Luiss University. My research studies asset pricing, financial markets, and crypto/blockchain markets, with a focus on empirical evidence, risk premia, and market design.
+
+[CV](cv.qmd) | [Research](research.qmd) | [Data & Code](data-code.qmd) | [Google Scholar](https://scholar.google.com/citations?user=Z4QMV08AAAAJ&hl=en&oi=ao) | [SSRN](https://papers.ssrn.com/sol3/cf_dev/AbsByAuth.cfm?per_id=1131728)
+
+:::
+
+## Selected Research
+
+Add 3-5 selected papers here. Keep this section short. The full list goes on the Research page.
+
+## Data, Code, and Teaching
+
+Use this section to point readers to datasets, replication files, and teaching material.
