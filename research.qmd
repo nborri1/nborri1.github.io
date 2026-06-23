@@ -12,21 +12,21 @@ My papers are listed below.
 ### Working Papers
 
 1. [Trading Frictions in Dynamic Cap-and-Trade Markets](https://www.nber.org/papers/w35356)<br>
-   with Yukun Liu, Aleh Tsyvinski and Xi Wu. NBER Working Paper \#35356, June 2026. This paper subsumes the earlier *Inefficiencies of Carbon Trading Markets*. [arXiv](https://arxiv.org/abs/2408.06497) [SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4923646)
+   with Yukun Liu, Aleh Tsyvinski and Xi Wu. NBER Working Paper \#35356, June 2026. [arXiv](https://arxiv.org/abs/2606.03767) [SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4923646). This paper subsumes the earlier *Inefficiencies of Carbon Trading Markets* ([arXiv](https://arxiv.org/abs/2408.06497)).
    <details class="abstract"><summary>Abstract</summary>
    <p>We develop a dynamic stochastic model of markets with an externality and multiple trading frictions, and cap-and-trade as the leading application. Slow participation, limited intermediation, and heterogeneous information interact in equilibrium: agents choose costly market access, access determines residual compliance demand, intermediary constraints translate residual demand into a surrender-month premium, and the premium feeds back into access incentives. These interactions shape how effectively the market corrects the externality. We characterize access choices in closed form, prove that the equilibrium premium is unique, and show that endogenous access dampens the response to each friction in isolation, while the interaction of multiple frictions is non-additive and can amplify the price response. We quantify the model using 2.7 million EU ETS registry transactions and compliance records from 2005-2021. About 40% of operators do not trade annually, purchases concentrate in April when returns are systematically high, and operator flow predicts future returns.</p>
    </details>
 
 2. [Forward Selection Fama-MacBeth Regression with Higher-Order Asset Pricing Factors](https://www.nber.org/papers/w33663)<br>
-   with Denis Chetverikov, Yukun Liu and Aleh Tsyvinski. NBER Working Paper \#33663, April 2025. [SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5181447)
+   with Denis Chetverikov, Yukun Liu and Aleh Tsyvinski. NBER Working Paper \#33663, April 2025. [arXiv](https://arxiv.org/abs/2503.23501) [SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5181447)
    <details class="abstract"><summary>Abstract</summary>
-   <p>We show that the higher-orders and their interactions of the common sparse linear factors can effectively subsume the factor zoo. We propose a forward selection Fama-MacBeth procedure as a method to estimate a high-dimensional stochastic discount factor model, isolating the most relevant higher-order factors. Applying this approach to terms derived from six widely used factors (the Fama-French five-factor model and the momentum factor), we show that the resulting higher-order model with only a small number of selected higher-order terms significantly outperforms traditional benchmarks both in-sample and out-of-sample. Moreover, it effectively subsumes a majority of the factors from the extensive factor zoo, suggesting that the pricing power of most zoo factors is attributable to their exposure to higher-order terms of common linear factors.</p>
+   <p>We show that the higher-order terms and interactions of the common sparse linear factors are significantly priced in the cross-section of equity returns. A higher-order model with only a small number of selected higher-order terms from six widely used factors outperforms traditional benchmarks both in-sample and out-of-sample. It also substantially reduces the alphas of the extensive factor zoo, suggesting that the pricing power of many zoo factors is attributable to their exposure to higher-order terms of common linear factors. We identify and rank the most relevant higher-order terms by developing a forward selection Fama-MacBeth procedure.</p>
    </details>
 
 3. [One Factor to Bind the Cross-Section of Returns](https://www.nber.org/papers/w32365)<br>
    with Denis Chetverikov, Yukun Liu and Aleh Tsyvinski. NBER Working Paper \#32365, April 2024. [arXiv](https://arxiv.org/abs/2404.08129) [SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4791496)
    <details class="abstract"><summary>Abstract</summary>
-   <p>We propose a new non-linear single-factor asset pricing model. Despite its parsimony, this model represents exactly any non-linear model with an arbitrary number of factors and loadings - a consequence of the Kolmogorov-Arnold representation theorem. It features only one pricing component comprising a nonparametric link function of the time-dependent factor and factor loading that we jointly estimate with sieve-based estimators. Using 171 assets across major classes, our model delivers superior cross-sectional performance with a low-dimensional approximation of the link function. Most known finance and macro factors become insignificant controlling for our single-factor.</p>
+   <p>We propose a new non-linear single-factor asset pricing model. Despite its parsimony, this model represents exactly any non-linear model with an arbitrary number of factors and loadings - a consequence of the Kolmogorov-Arnold representation theorem. It features only one pricing component, comprising a nonparametric link function of the time-dependent factor and factor loading that we jointly estimate with sieve-based estimators. Using 171 assets across major classes, our model delivers superior cross-sectional performance with a low-dimensional approximation of the link function. Most known finance and macro factors become insignificant controlling for our single-factor.</p>
    </details>
 
 4. [Crypto Risk Premia](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4154627)<br>
@@ -56,10 +56,16 @@ My papers are listed below.
 ### Publications
 
 1. Cryptocurrency: Coming of Age as an Investable Asset Class<br>
-   with Yukun Liu, Aleh Tsyvinski and Xi Wu. *Annual Review of Financial Economics*, Vol. 18, 2026. [SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5612870)
+   with Yukun Liu, Aleh Tsyvinski and Xi Wu. *Annual Review of Financial Economics*, Vol. 18, 2026. [arXiv](https://arxiv.org/abs/2510.14435) [SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5612870)
+   <details class="abstract"><summary>Abstract</summary>
+   <p>We organize existing empirical regularities of cryptocurrencies into seven stylized facts and analyze cryptocurrencies through the lens of empirical asset pricing. We find important similarities with traditional markets: risk-adjusted performance so far is broadly comparable, and the cross-section of returns can be summarized by a small set of factors. However, cryptocurrency also has its own distinct character: jumps are frequent and large, and blockchain information helps drive prices. This common set of stylized facts provides evidence that cryptocurrency is emerging as an investable asset class. Additionally, we discuss potential data quality issues and possible changes in future regulations and the cryptocurrency environment.</p>
+   </details>
 
 2. Systemic Risk in the European Insurance Sector<br>
-   with Giovanni Bonaccolto, Andrea Consiglio and Giorgio Di Giorgio. *Journal of Financial Stability*, Vol. 84, 2026.
+   with Giovanni Bonaccolto, Andrea Consiglio and Giorgio Di Giorgio. *Journal of Financial Stability*, Vol. 84, 2026. [arXiv](https://arxiv.org/abs/2505.02635)
+   <details class="abstract"><summary>Abstract</summary>
+   <p>This paper studies systemic-risk connectedness in the European insurance sector at three levels of granularity: across major segments of financial markets, across insurance subsectors, and across individual insurance companies. Using a common connectedness framework applied to returns, volatility, value-at-risk, and expected shortfall, we document that insurers are an important component of systemic-risk connectedness, especially during stress episodes. We also provide reduced-form evidence on economically relevant channels in the European institutional setting: aggregate insurer spillovers co-move with term spreads, sovereign spreads, and funding stress, and firm-level insurer-to-bank spillovers vary with sovereign risk and domestic sovereign-bond home bias in a way consistent with a balance-sheet channel. The analysis further reveals substantial heterogeneity across subsectors and identifies a stable core of systemically central insurers in firm-level networks.</p>
+   </details>
 
 3. [Cryptomarket Discounts](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3124394)<br>
    with Kirill Shakhnov. *Journal of International Money and Finance*, 139, December 2023.
@@ -106,7 +112,10 @@ My papers are listed below.
 
 2. *A Bloomberg Terminal Primer*, I Quaderni di Minerva Bancaria, 2018.
 
-3. Corporate Finance in the Age of Fintech, in *Topics in Corporate Finance: Challenges, Opportunities, Debates, and Trends*, Springer Nature Switzerland, Cham, 2026, pp. 151-170.
+3. Corporate Finance in the Age of Fintech, in *Topics in Corporate Finance: Challenges, Opportunities, Debates, and Trends*, Springer Nature Switzerland, Cham, 2026, pp. 151-170. [arXiv](https://arxiv.org/abs/2503.18675)
+   <details class="abstract"><summary>Abstract</summary>
+   <p>Blockchain is a technological innovation that has the potential to radically change our financial markets by providing an alternative management approach to the "promise market", which is the foundation of our financial systems. Its disruptive potential also extends to corporate finance, where blockchain is beginning to influence valuation methods and capital allocation strategies, offering new perspectives on how companies are assessed and financed. However, for a new financial architecture based on blockchain and advancements in technology - what is commonly referred to as Fintech - to replace, in whole or in part, traditional finance, it will need to overcome significant challenges such as regulation, environmental sustainability, its association with illegal activities, and achieving greater efficiency in cryptocurrency markets. For this reason, the future of Fintech is likely to be more conventional - yet also more transparent, efficient, and regulated - ultimately evolving to resemble the traditional finance we know.</p>
+   </details>
 
 4. The COVID-19 Challenge to European Financial Markets. Lessons from Italy, in M. Billio and S. Varotto, eds., *A New World Post COVID-19*, Edizioni Ca' Foscari, 2020, pp. 137-148.
 
