@@ -73,8 +73,11 @@ My papers are listed below.
    <p>This paper studies the efficiency of the cryptocurrency market by looking at the distribution of bitcoin prices over time and across exchange-currency pairs. We document persistent differences in relative bitcoin prices (or discounts), with a half-life of 1 day, and a distribution which is leptokurtic, skewed to the right, with a standard deviation of 3.9%. The variability of discounts is larger in countries with tighter capital controls due to the combined effect of market segmentation and local supply and demand shocks, which we relate to location-specific mining activities and investor attention.</p>
    </details>
 
-4. [The Cross-Section of Cryptocurrency Returns](https://ssrn.com/abstract=3241485)<br>
-   with Kirill Shakhnov. *Review of Asset Pricing Studies*, Vol. 12, No. 3, September 2022, pp. 667-705.
+4. The Cross-Section of Cryptocurrency Returns<br>
+   with Kirill Shakhnov. *Review of Asset Pricing Studies*, Vol. 12, No. 3, September 2022, pp. 667-705. [SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3241485) [Published version](https://academic.oup.com/raps/article-abstract/12/3/667/6543623?redirectedFrom=fulltext)
+   <details class="abstract"><summary>Abstract</summary>
+   <p>At a given point in time, bitcoin prices differ across exchanges located in different countries and across currency pairs. While existing literature attributes the largest price differences to frictions such as market segmentation, trading platforms advertise strategies based on this information. We provide a novel risk-based explanation of these price differences for a sample containing the most reputable exchanges and after accounting for transaction costs and limitations to trade. Bitcoin prices for more expensive pairs are riskier because they depreciate more in bad times for cryptocurrency investors, when aggregate liquidity and investor sentiment are lower.</p>
+   </details>
 
 5. Systemic Risk and the COVID Challenge in the European Banking Sector<br>
    with Giorgio Di Giorgio. *Journal of Banking & Finance*, Vol. 140, July 2022. [SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3716950) [Published version](https://www.sciencedirect.com/science/article/pii/S0378426621000315)
