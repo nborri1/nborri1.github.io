@@ -1,0 +1,11 @@
+[HOME](index.qmd)
+
+[CV](assets/cv/Nicola_Borri_CV.pdf)
+
+[RESEARCH](research.qmd)
+
+[DATA & CODE](data-code.qmd)
+
+[POLICY & MEDIA](policy-media.qmd)
+
+![Nicola Borri](assets/img/nicola-borri.jpg){.profile-photo}

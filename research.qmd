@@ -2,25 +2,122 @@
 title: "Research"
 ---
 
-## Working Papers
+::: {.wrapper}
+::: {.main-section}
 
-Add current working papers here.
+# Research Papers
 
-For each paper, use this format:
+My papers are listed below.
 
-**Paper Title**  
-with Coauthor Name  
-Status or short description.  
-[PDF](#) | [SSRN](#) | [Code](#) | [Slides](#)
+### Working Papers
 
-## Publications
+1. [Trading Frictions in Dynamic Cap-and-Trade Markets](https://www.nber.org/papers/w35356)<br>
+   with Yukun Liu, Aleh Tsyvinski and Xi Wu. NBER Working Paper \#35356, June 2026. This paper subsumes the earlier *Inefficiencies of Carbon Trading Markets*. [arXiv](https://arxiv.org/abs/2408.06497) [SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4923646)
+   <details class="abstract"><summary>Abstract</summary>
+   <p>Abstract to be added.</p>
+   </details>
 
-Add published papers here, grouped either by year or by topic.
+2. [Forward Selection Fama-MacBeth Regression with Higher-Order Asset Pricing Factors](https://www.nber.org/papers/w33663)<br>
+   with Denis Chetverikov, Yukun Liu and Aleh Tsyvinski. NBER Working Paper \#33663, April 2025. [SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5181447)
+   <details class="abstract"><summary>Abstract</summary>
+   <p>Abstract to be added.</p>
+   </details>
 
-## Research Areas
+3. [One Factor to Bind the Cross-Section of Returns](https://www.nber.org/papers/w32365)<br>
+   with Denis Chetverikov, Yukun Liu and Aleh Tsyvinski. NBER Working Paper \#32365, April 2024. [arXiv](https://arxiv.org/abs/2404.08129) [SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4791496)
+   <details class="abstract"><summary>Abstract</summary>
+   <p>Abstract to be added.</p>
+   </details>
 
-- Asset pricing
-- Crypto and blockchain markets
-- Macro-finance
-- Financial intermediation
-- AI and financial markets, if this becomes a stable public research line
+4. [Crypto Risk Premia](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4154627)<br>
+   with Daniele Massacci, Mirco Rubin and Dario Ruzzi. Featured in [Risk.net](https://www.risk.net/investing/7952951/the-closer-quants-look-the-less-diversifying-crypto-appears), August 5 2022.
+   <details class="abstract"><summary>Abstract</summary>
+   <p>Abstract to be added.</p>
+   </details>
+
+5. [The Economics of Non-fungible Tokens](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4052045)<br>
+   with Yukun Liu and Aleh Tsyvinski. Media coverage: Financial Times, Pour l'Eco, Chainlink Research Reports, and Investor's Chronicle.
+   <details class="abstract"><summary>Abstract</summary>
+   <p>Abstract to be added.</p>
+   </details>
+
+6. Redistributive Taxation with Skill Biased Technologies<br>
+   with Pietro Reichlin.
+
+7. [Crypto Premium, Higher-Order Moments and Tail Risk](http://ssrn.com/abstract=3889169)<br>
+   with Paolo Santucci de Magistris. [Online Appendix](https://www.dropbox.com/s/sp9oq6ugevrfpol/Supplementary_Document_v1.pdf?dl=0)
+
+8. [Wealth Taxes and Inequality](https://ssrn.com/abstract=3217067)<br>
+   with Pietro Reichlin. CEPR Discussion Paper No. 13067, July 2018. [Slides](https://www.dropbox.com/s/xravcni0ctowl9p/slides_wti_v0.pdf?dl=0)
+
+9. [Limited Participation and Local Currency Sovereign Debt](http://ssrn.com/abstract=2978127)<br>
+   with Kirill Shakhnov.
+
+10. [Sovereign Risk Premia](http://ssrn.com/abstract=1343746)<br>
+    with Adrien Verdelhan. Winner, WRDS Best Paper Award, EFM 2010; ABI Best Paper Award on Country Risk Assessment, 2010. [Data](http://web.mit.edu/adrienv/www/SovereignPortfolios.xls)
+
+11. Closed-End Funds and Aggregate Risk<br>
+    with Adrien Verdelhan.
+
+### Publications
+
+1. Cryptocurrency: Coming of Age as an Investable Asset Class<br>
+   with Yukun Liu, Aleh Tsyvinski and Xi Wu. *Annual Review of Financial Economics*, Vol. 18, 2026. [SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5612870)
+
+2. Systemic Risk in the European Insurance Sector<br>
+   with Giovanni Bonaccolto, Andrea Consiglio and Giorgio Di Giorgio. *Journal of Financial Stability*, Vol. 84, 2026.
+
+3. [Cryptomarket Discounts](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3124394)<br>
+   with Kirill Shakhnov. *Journal of International Money and Finance*, 139, December 2023.
+
+4. [The Cross-Section of Cryptocurrency Returns](https://ssrn.com/abstract=3241485)<br>
+   with Kirill Shakhnov. *Review of Asset Pricing Studies*, Vol. 12, No. 3, September 2022, pp. 667-705.
+
+5. [Systemic Risk and the COVID Challenge in the European Banking Sector](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3716950)<br>
+   with Giorgio Di Giorgio. *Journal of Banking & Finance*, Vol. 140, July 2022.
+
+6. [Breakup and Default Risks in the Great Lockdown](https://ssrn.com/abstract=3487453)<br>
+   with Andrea Consiglio and Giovanni Bonaccolto. *Journal of Banking & Finance*, September 2021. [Published version](https://www.sciencedirect.com/science/article/pii/S0378426621002600)
+
+7. [The Great Lockdown: Inactive Workers and Mortality by Covid-19](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3689120)<br>
+   with Francesco Drago, Chiara Santantonio and Francesco Sobbrio. *Health Economics*, Vol. 30, No. 10, September 2021, pp. 2376-2382. [VoxEU column](https://voxeu.org/article/inactive-workers-and-mortality-due-covid-19-evidence-italy)
+
+8. [Global Risk in Long-Term Sovereign Debt](http://ssrn.com/abstract=3083642)<br>
+   with Kirill Shakhnov. *Review of Asset Pricing Studies*, Vol. 11, No. 3, September 2021, pp. 654-693. [Published version](https://academic.oup.com/raps/article/11/3/654/6278366)
+
+9. [Optimal Taxation with Homeownership and Wealth Inequality](https://www.sciencedirect.com/science/article/pii/S109420252030079X)<br>
+   with Pietro Reichlin. *Review of Economic Dynamics*, Vol. 40, April 2021, pp. 64-84.
+
+10. [Regulation Spillovers across Cryptocurrency Markets](https://ssrn.com/abstract=3343696)<br>
+    with Kirill Shakhnov. *Finance Research Letters*, Vol. 36, October 2020.
+
+11. [Conditional Tail-Risk in Cryptocurrency Markets](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3162038)<br>
+    *Journal of Empirical Finance*, Vol. 50, January 2019, pp. 1-19.
+
+12. [Redenomination-Risk Spillovers in the Eurozone](https://ssrn.com/abstract=3244471)<br>
+    *Economics Letters*, Vol. 174, January 2019, pp. 173-178.
+
+13. [The Housing Cost Disease](http://papers.ssrn.com/sol3/papers.cfm?abstract_id=2631127)<br>
+    with Pietro Reichlin. *Journal of Economic Dynamics and Control*, Vol. 87, February 2018, pp. 106-123.
+
+14. [Local Currency Systemic Risk](http://ssrn.com/abstract=2971049)<br>
+    *Emerging Markets Review*, Vol. 34, 2018, pp. 111-123.
+
+15. [Sensitivity, Moment Conditions, and the Risk-Free Rate in Yogo (2006)](https://papers.ssrn.com/sol3/papers2.cfm?abstract_id=2855792)<br>
+    with Giuseppe Ragusa. *Critical Finance Review*, Vol. 6, No. 2, pp. 381-393, 2017. [Replication files](http://www.nowpublishers.com/article/details/supplementary-info/104.00000050_supp.zip)
+
+### Books and Chapters
+
+1. *A Bloomberg Terminal Primer: Revised Edition*, I Quaderni di Minerva Bancaria, 2024.
+
+2. *A Bloomberg Terminal Primer*, I Quaderni di Minerva Bancaria, 2018.
+
+3. Corporate Finance in the Age of Fintech, in *Topics in Corporate Finance: Challenges, Opportunities, Debates, and Trends*, Springer Nature Switzerland, Cham, 2026, pp. 151-170.
+
+4. The COVID-19 Challenge to European Financial Markets. Lessons from Italy, in M. Billio and S. Varotto, eds., *A New World Post COVID-19*, Edizioni Ca' Foscari, 2020, pp. 137-148.
+
+:::
+::: {.sidenav}
+{{< include _includes/sidebar.qmd >}}
+:::
+:::

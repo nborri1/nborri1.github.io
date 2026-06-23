@@ -2,6 +2,17 @@
 title: "CV"
 ---
 
+::: {.wrapper}
+::: {.main-section}
+
+# CV
+
 The current CV is available here:
 
-[Download CV](https://www.nicolaborri.com/cv)
+[Download CV](assets/cv/Nicola_Borri_CV.pdf)
+
+:::
+::: {.sidenav}
+{{< include _includes/sidebar.qmd >}}
+:::
+:::

@@ -2,24 +2,49 @@
 title: "Nicola Borri"
 ---
 
-::: {.home-intro}
+::: {.wrapper}
+::: {.main-section}
 
 # Nicola Borri
 
-Professor of Finance, Luiss University
+<div class="subtitle">
+Associate Professor of Finance<br>
+Lian Group Chair in Blockchain Technology and Fintech<br>
+Luiss University
+</div>
 
-Asset Pricing | Crypto & Blockchain | Macro-Finance | Financial Markets
+I am an Associate Professor of Finance at Luiss University, Rome, and Lian Group Chair in Blockchain Technology and Fintech. My research is primarily at the intersection of finance and macroeconomics, with a focus on empirical and quantitative asset pricing, fintech, crypto and blockchain markets, and sovereign risk.
 
-I am Professor of Finance at Luiss University. My research studies asset pricing, financial markets, and crypto/blockchain markets, with a focus on empirical evidence, risk premia, and market design.
+### CV
 
-[CV](cv.qmd) | [Research](research.qmd) | [Data & Code](data-code.qmd) | [Google Scholar](https://scholar.google.com/citations?user=Z4QMV08AAAAJ&hl=en&oi=ao) | [SSRN](https://papers.ssrn.com/sol3/cf_dev/AbsByAuth.cfm?per_id=1131728)
+[My CV is available here.](assets/cv/Nicola_Borri_CV.pdf)
+
+### Research
+
+[My research is listed here.](research.qmd)
+
+### Data & Code
+
+[Data and code resources are listed here.](data-code.qmd)
+
+### Policy & Media
+
+[Policy writings and media pieces are listed here.](policy-media.qmd)
+
+### Profiles
+
+[Google Scholar](https://scholar.google.com/citations?user=Z4QMV08AAAAJ&hl=en&oi=ao)<br>
+[SSRN](https://papers.ssrn.com/sol3/cf_dev/AbsByAuth.cfm?per_id=1131728)<br>
+[RePEc](https://ideas.repec.org/f/pbo330.html)<br>
+[CitEc](http://citec.repec.org/p/b/pbo330.html)
+
+### Contact
+
+Email: nborri[at]luiss[dot]it<br>
+Twitter: [@nicolaborri](https://twitter.com/nicolaborri)
 
 :::
-
-## Selected Research
-
-Add 3-5 selected papers here. Keep this section short. The full list goes on the Research page.
-
-## Data, Code, and Teaching
-
-Use this section to point readers to datasets, replication files, and teaching material.
+::: {.sidenav}
+{{< include _includes/sidebar.qmd >}}
+:::
+:::

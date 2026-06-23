@@ -5,25 +5,8 @@ project:
 website:
   title: "Nicola Borri"
   site-url: "https://nborri1.github.io"
-  description: "Academic website of Nicola Borri, Professor of Finance at Luiss University."
-  navbar:
-    left:
-      - text: "Home"
-        href: index.qmd
-      - text: "Research"
-        href: research.qmd
-      - text: "Data & Code"
-        href: data-code.qmd
-      - text: "Teaching"
-        href: teaching.qmd
-      - text: "Policy & Media"
-        href: policy-media.qmd
-      - text: "Resources"
-        href: resources.qmd
-      - text: "CV"
-        href: cv.qmd
-  page-footer:
-    center: "Copyright 2026 Nicola Borri"
+  description: "Academic website of Nicola Borri, Associate Professor of Finance at Luiss University."
+  search: false
 
 format:
   html:
@@ -31,3 +14,4 @@ format:
     css: styles.css
     toc: false
     page-layout: full
+    title-block-style: none

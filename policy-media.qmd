@@ -2,14 +2,73 @@
 title: "Policy & Media"
 ---
 
-## Policy Writing
+::: {.wrapper}
+::: {.main-section}
 
-Add policy notes, reports, VoxEU pieces, and public-facing research essays.
+# Policy & Media
 
-## Media
+### In English
 
-Add interviews, podcasts, radio, TV, newspaper quotes, and event recordings.
+**VoxEU**
 
-## Events
+- [Inactive workers and mortality due to Covid-19: Evidence from the Italian lockdown](https://voxeu.org/article/inactive-workers-and-mortality-due-covid-19-evidence-italy), October 23, 2020, with Francesco Drago, Chiara Santantonio and Francesco Sobbrio.
+- [Completing the Eurozone Banking Union](http://voxeu.org/article/completing-eurozone-banking-union), May 4, 2016, with Pietro Reichlin.
+- [The housing cost disease](http://www.voxeu.org/article/housing-cost-disease), September 8, 2015, with Pietro Reichlin.
+- [Is Italy going to make it?](http://www.voxeu.org/article/italy-going-make-it), February 4, 2012, with Gianfranco Di Vaio and Giuseppe Ragusa.
 
-Add selected public events, panels, and keynote-style talks.
+**EuVisions**
+
+- [Greece: How long before economic normality?](http://www.euvisions.eu/before-economic-normality/), October 14, 2016.
+- [Is debt restructuring the right solution for Greece?](http://www.euvisions.eu/is-debt-restructuring-the-right-solution-for-greece/), May 20, 2016.
+
+**Financial Times letters**
+
+- [So much more to Sicily than fried risotto balls](https://www.ft.com/content/9af0a464-c323-11e7-a1d2-6786f39ef675), November 8, 2017.
+- [Italy must dig deeper to close gap with Germany](https://www.ft.com/content/ca8e88f4-3a73-11e3-b234-00144feab7de), October 22, 2013.
+
+### In Italian
+
+**Il Sole 24 Ore**
+
+- Europa e Stati Uniti: perche' sono due inflazioni diverse, July 21, 2022. [PDF](https://www.dropbox.com/s/d8jqfieersvviaw/borri_sole24ore_21_luglio_2022.pdf?dl=0)
+- [Linee di credito a lungo termine per convincere i rigoristi del nord](https://www.ilsole24ore.com/art/linee-credito-lungo-termine-convincere-rigoristi-nord-AD1KvpF), March 26, 2020, with Salvatore Nistico and Pietro Reichlin. [PDF](https://www.dropbox.com/s/ls3ymulyqhebgjf/analisi_covid19_sole_03262020.pdf?dl=0)
+- Default, i costi reali di un'ipotesi remota, November 22, 2019. [PDF](https://www.dropbox.com/s/3waz8osbmdohudx/editoriale_sole_22112019.pdf?dl=0)
+- Piu' trasparenza per ritrovare la fiducia dei risparmiatori, November 20, 2019. [PDF](https://www.dropbox.com/s/6bclzy8kyc9vrsq/editoriale_sole_19112019.pdf?dl=0)
+- Investitori retail, la lezione del caso bio-on, November 1, 2019. [PDF](https://www.dropbox.com/s/b7ejjc8v0ooign7/bioon_sole24ore_Nov2019.pdf?dl=0)
+- I nodi irrisolti della direttiva sul bail-in, May 13, 2016, with Pietro Reichlin.
+- E-bond a prova di Berlino, December 11, 2010, with Pietro Reichlin.
+- L'Irlanda sta male ma non infetta, October 2, 2010, with Pietro Reichlin.
+- Un piano di salvataggio con piu' costi che utili, August 31, 2010, with Pietro Reichlin.
+- Tassare le banche incentivo all'azzardo, July 1, 2010, with Pietro Reichlin.
+
+**Lavoce.info**
+
+- [La Grecia volta pagina, i problemi no](https://www.lavoce.info/archives/60463/la-grecia-volta-pagina-i-problemi-no/), July 12, 2019.
+- [Autogol sui PIR: meno efficaci e piu' rischiosi](https://www.lavoce.info/archives/59486/autogol-sui-pir-meno-efficaci-e-piu-rischiosi/), June 4, 2019.
+- [Se l'Italia non ha il paracadute](http://www.lavoce.info/archives/55610/italia-senza-paracadute/), October 23, 2018.
+- PIR, un investimento che piace agli italiani, October 9, 2018.
+- In Grecia torna il sereno, ma nuove nuvole in Europa, September 4, 2018.
+- E in Grecia per la Troika e' missione compiuta, June 22, 2018.
+- Germogli di crescita in Grecia. Ma e' davvero primavera?, September 15, 2017.
+- Grecia: la saga del debito e' sempre piu' una odissea, June 20, 2017.
+- Grecia, la fine della saga resta lontana, May 9, 2017.
+- BCE oltre il mandato. Ma per necessita', March 31, 2017.
+- Torna in scena lo scontro sul debito greco, February 21, 2017.
+- Piu' rischi che benefici dai piani individuali di risparmio, January 13, 2017.
+
+**Linkiesta**
+
+- [Sei regole per non farsi spennare dalle banche](http://www.linkiesta.it/it/article/2016/01/08/sei-regole-per-non-farsi-spennare-dalle-banche/28819/), January 8, 2016.
+- Banche e fondi di investimento: separiamoli o saranno guai seri, December 21, 2015.
+- Le borse crollano, non prendetevela con Draghi, December 4, 2015.
+- Spending review, anche Renzi ha fallito, October 16, 2015.
+- Usiamo la flessibilita' per le riforme, non per il consenso, September 21, 2015.
+- Perche' il "funerale" della Tasi non convince, September 4, 2015.
+- Cina, il problema non e' economico ma politico, August 26, 2015.
+- Attenti all'euforia per il QE, inseguire i rendimenti passati costa caro, April 16, 2015.
+
+:::
+::: {.sidenav}
+{{< include _includes/sidebar.qmd >}}
+:::
+:::
