@@ -73,8 +73,8 @@ My papers are listed below.
 4. [The Cross-Section of Cryptocurrency Returns](https://ssrn.com/abstract=3241485)<br>
    with Kirill Shakhnov. *Review of Asset Pricing Studies*, Vol. 12, No. 3, September 2022, pp. 667-705.
 
-5. [Systemic Risk and the COVID Challenge in the European Banking Sector](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3716950)<br>
-   with Giorgio Di Giorgio. *Journal of Banking & Finance*, Vol. 140, July 2022.
+5. Systemic Risk and the COVID Challenge in the European Banking Sector<br>
+   with Giorgio Di Giorgio. *Journal of Banking & Finance*, Vol. 140, July 2022. [SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3716950) [Published version](https://www.sciencedirect.com/science/article/pii/S0378426621000315)
 
 6. [Breakup and Default Risks in the Great Lockdown](https://ssrn.com/abstract=3487453)<br>
    with Andrea Consiglio and Giovanni Bonaccolto. *Journal of Banking & Finance*, September 2021. [Published version](https://www.sciencedirect.com/science/article/pii/S0378426621002600)
