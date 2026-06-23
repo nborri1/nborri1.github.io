@@ -85,8 +85,11 @@ My papers are listed below.
    <p>This paper studies the systemic risk contribution of a set of large publicly traded European banks. Over a sample covering the last twenty years and three different crises, we find that all banks in our sample significantly contribute to systemic risk. Moreover, larger banks and banks with a business model more exposed to trading and financial market volatility, contribute more. In the shorter sample characterized by the Covid-19 shock, sovereign default risks significantly affected the systemic risk contribution of all banks. However, the ECB announcement of the Pandemic Emergency Purchasing Programme restored calm in the European banking sector.</p>
    </details>
 
-6. [Breakup and Default Risks in the Great Lockdown](https://ssrn.com/abstract=3487453)<br>
-   with Andrea Consiglio and Giovanni Bonaccolto. *Journal of Banking & Finance*, September 2021. [Published version](https://www.sciencedirect.com/science/article/pii/S0378426621002600)
+6. Breakup and Default Risks in the Great Lockdown<br>
+   with Giovanni Bonaccolto and Andrea Consiglio. *Journal of Banking & Finance*, Vol. 147, February 2023, 106308. [SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3487453) [Published version](https://www.sciencedirect.com/science/article/pii/S0378426621002600)
+   <details class="abstract"><summary>Abstract</summary>
+   <p>We use sovereign CDS contracts with different currencies and default clauses to estimate Eurozone breakup risk and the propagation of breakup and default risks after the COVID-19 shock. We find that breakup risk is significant, though not larger than before the shock, and that increases in redenomination risk in one country are associated with higher default premia and bond spreads elsewhere in the Eurozone. A sizeable part of the cost of insuring against redenomination and default also reflects expected euro depreciation conditional on redenomination and CDS-market liquidity premia.</p>
+   </details>
 
 7. [The Great Lockdown: Inactive Workers and Mortality by Covid-19](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3689120)<br>
    with Francesco Drago, Chiara Santantonio and Francesco Sobbrio. *Health Economics*, Vol. 30, No. 10, September 2021, pp. 2376-2382. [VoxEU column](https://voxeu.org/article/inactive-workers-and-mortality-due-covid-19-evidence-italy)
