@@ -9,16 +9,19 @@ title: "Discussions"
 
 ### Discussion Slides
 
-1. [Inclusion and Democratization Through Web3 and DeFi? Initial Evidence from the Ethereum Ecosystem](assets/discussions/inclusion-democratization-web3-defi-assa-2024.pdf)<br>
+1. [Stablecoin Flows, Dollar Convenience Yields and Exchange Rates](assets/discussions/stablecoin-flows-dollar-convenience-yields-ifs-2026.pdf)<br>
+   Discussion of Huang, Lou, Shao and Wang. Annual Meeting of the International Finance Society, Gerzensee, June 2026.
+
+2. [Inclusion and Democratization Through Web3 and DeFi? Initial Evidence from the Ethereum Ecosystem](assets/discussions/inclusion-democratization-web3-defi-assa-2024.pdf)<br>
    By Lin Cong, Ke Tang, Yanxin Wang and Xi Zhao. ASSA 2024 Meetings, January 2024.
 
-2. [The Cryptocurrency Elephant in the Room](assets/discussions/cryptocurrency-elephant-room-nber-2023.pdf)<br>
+3. [The Cryptocurrency Elephant in the Room](assets/discussions/cryptocurrency-elephant-room-nber-2023.pdf)<br>
    By Ran Duchin, David H. Solomon, Jun Tu and Xi Wang. NBER Behavioral Finance Fall Workshop, November 2023.
 
-3. [Barriers to Global Capital Allocation](assets/discussions/barriers-global-capital-allocation-luiss-2022.pdf)<br>
+4. [Barriers to Global Capital Allocation](assets/discussions/barriers-global-capital-allocation-luiss-2022.pdf)<br>
    By Bruno Pellegrino, Enrico Spolaore and Romain Wacziarg. Luiss workshop, June 2022.
 
-4. [Bank Risk-Taking and the Real Economy: Evidence from the Housing Boom and its Aftermath](assets/discussions/bank-risk-taking-real-economy-bocconi-2019.pdf)<br>
+5. [Bank Risk-Taking and the Real Economy: Evidence from the Housing Boom and its Aftermath](assets/discussions/bank-risk-taking-real-economy-bocconi-2019.pdf)<br>
    By Antonio Falato, Giovanni Favara and David Scharfstein. Conference in Honor of Francesco Giavazzi, Bocconi, September 2019.
 
 :::
