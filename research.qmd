@@ -97,8 +97,11 @@ My papers are listed below.
 9. [Optimal Taxation with Homeownership and Wealth Inequality](https://www.sciencedirect.com/science/article/pii/S109420252030079X)<br>
    with Pietro Reichlin. *Review of Economic Dynamics*, Vol. 40, April 2021, pp. 64-84.
 
-10. [Regulation Spillovers across Cryptocurrency Markets](https://ssrn.com/abstract=3343696)<br>
-    with Kirill Shakhnov. *Finance Research Letters*, Vol. 36, October 2020.
+10. Regulation Spillovers across Cryptocurrency Markets<br>
+    with Kirill Shakhnov. *Finance Research Letters*, Vol. 36, October 2020. [SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3343696) [Published version](https://www.sciencedirect.com/science/article/pii/S1544612319307470)
+    <details class="abstract"><summary>Abstract</summary>
+    <p>We study how domestic restrictions on cryptocurrency trading can spill across international markets. Using China's 2017 regulatory shock, which sharply reduced domestic bitcoin trading, we document large spillovers to trading volume and relative bitcoin prices in other currency markets, especially Korean won, Japanese yen, U.S. dollar pairs, and Chinese peer-to-peer exchanges.</p>
+    </details>
 
 11. [Conditional Tail-Risk in Cryptocurrency Markets](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3162038)<br>
     *Journal of Empirical Finance*, Vol. 50, January 2019, pp. 1-19.
