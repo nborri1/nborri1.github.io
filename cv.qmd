@@ -1,5 +1,15 @@
 ---
 title: "CV"
+format:
+  html:
+    include-in-header:
+      text: |
+        <meta name="description" content="Curriculum vitae of Nicola Borri, Associate Professor of Finance and Lian Group Chair in Blockchain Technology and Fintech at Luiss University.">
+        <link rel="canonical" href="https://www.nicolaborri.com/cv.html">
+        <meta property="og:title" content="CV - Nicola Borri">
+        <meta property="og:description" content="Curriculum vitae of Nicola Borri, Associate Professor of Finance and Lian Group Chair in Blockchain Technology and Fintech at Luiss University.">
+        <meta property="og:type" content="website">
+        <meta property="og:url" content="https://www.nicolaborri.com/cv.html">
 ---
 
 ::: {.wrapper}

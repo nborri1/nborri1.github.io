@@ -1,5 +1,15 @@
 ---
 title: "Research"
+format:
+  html:
+    include-in-header:
+      text: |
+        <meta name="description" content="Research papers, publications, working papers, books, chapters, abstracts, and links for Nicola Borri, Associate Professor of Finance at Luiss University.">
+        <link rel="canonical" href="https://www.nicolaborri.com/research.html">
+        <meta property="og:title" content="Research - Nicola Borri">
+        <meta property="og:description" content="Research papers, publications, working papers, books, chapters, abstracts, and links for Nicola Borri, Associate Professor of Finance at Luiss University.">
+        <meta property="og:type" content="website">
+        <meta property="og:url" content="https://www.nicolaborri.com/research.html">
 ---
 
 ::: {.wrapper}

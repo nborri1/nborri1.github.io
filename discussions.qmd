@@ -1,5 +1,15 @@
 ---
 title: "Discussions"
+format:
+  html:
+    include-in-header:
+      text: |
+        <meta name="description" content="Discussion slides and conference discussions by Nicola Borri on finance, banking, cryptocurrency, DeFi, capital allocation, and related research.">
+        <link rel="canonical" href="https://www.nicolaborri.com/discussions.html">
+        <meta property="og:title" content="Discussions - Nicola Borri">
+        <meta property="og:description" content="Discussion slides and conference discussions by Nicola Borri on finance, banking, cryptocurrency, DeFi, capital allocation, and related research.">
+        <meta property="og:type" content="website">
+        <meta property="og:url" content="https://www.nicolaborri.com/discussions.html">
 ---
 
 ::: {.wrapper}

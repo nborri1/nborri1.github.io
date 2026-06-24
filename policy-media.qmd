@@ -1,5 +1,15 @@
 ---
 title: "Policy & Media"
+format:
+  html:
+    include-in-header:
+      text: |
+        <meta name="description" content="Policy writings and media contributions by Nicola Borri, including VoxEU, Il Sole 24 Ore, Lavoce, Linkiesta, EuVisions, and Financial Times pieces.">
+        <link rel="canonical" href="https://www.nicolaborri.com/policy-media.html">
+        <meta property="og:title" content="Policy and Media - Nicola Borri">
+        <meta property="og:description" content="Policy writings and media contributions by Nicola Borri, including VoxEU, Il Sole 24 Ore, Lavoce, Linkiesta, EuVisions, and Financial Times pieces.">
+        <meta property="og:type" content="website">
+        <meta property="og:url" content="https://www.nicolaborri.com/policy-media.html">
 ---
 
 ::: {.wrapper}

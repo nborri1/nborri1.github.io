@@ -1,5 +1,15 @@
 ---
 title: "Data & Code"
+format:
+  html:
+    include-in-header:
+      text: |
+        <meta name="description" content="Data, code, replication resources, and research profiles for Nicola Borri's work in finance, sovereign risk, and cryptocurrency markets.">
+        <link rel="canonical" href="https://www.nicolaborri.com/data-code.html">
+        <meta property="og:title" content="Data and Code - Nicola Borri">
+        <meta property="og:description" content="Data, code, replication resources, and research profiles for Nicola Borri's work in finance, sovereign risk, and cryptocurrency markets.">
+        <meta property="og:type" content="website">
+        <meta property="og:url" content="https://www.nicolaborri.com/data-code.html">
 ---
 
 ::: {.wrapper}

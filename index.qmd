@@ -1,5 +1,65 @@
 ---
 title: "Nicola Borri"
+format:
+  html:
+    include-in-header:
+      text: |
+        <meta name="description" content="Official website of Nicola Borri, Associate Professor of Finance and Lian Group Chair in Blockchain Technology and Fintech at Luiss University.">
+        <link rel="canonical" href="https://www.nicolaborri.com/">
+        <meta property="og:title" content="Nicola Borri">
+        <meta property="og:description" content="Official website of Nicola Borri, Associate Professor of Finance and Lian Group Chair in Blockchain Technology and Fintech at Luiss University.">
+        <meta property="og:type" content="profile">
+        <meta property="og:url" content="https://www.nicolaborri.com/">
+        <meta property="og:image" content="https://www.nicolaborri.com/assets/img/nicola-borri.jpg">
+        <script type="application/ld+json">
+        {
+          "@context": "https://schema.org",
+          "@graph": [
+            {
+              "@type": "WebSite",
+              "@id": "https://www.nicolaborri.com/#website",
+              "url": "https://www.nicolaborri.com/",
+              "name": "Nicola Borri",
+              "description": "Official website of Nicola Borri, Associate Professor of Finance and Lian Group Chair in Blockchain Technology and Fintech at Luiss University."
+            },
+            {
+              "@type": "Person",
+              "@id": "https://www.nicolaborri.com/#person",
+              "name": "Nicola Borri",
+              "url": "https://www.nicolaborri.com/",
+              "image": "https://www.nicolaborri.com/assets/img/nicola-borri.jpg",
+              "email": "mailto:nborri@luiss.it",
+              "jobTitle": [
+                "Associate Professor of Finance",
+                "Lian Group Chair in Blockchain Technology and Fintech"
+              ],
+              "affiliation": {
+                "@type": "CollegeOrUniversity",
+                "name": "Luiss University",
+                "url": "https://www.luiss.edu/"
+              },
+              "sameAs": [
+                "https://scholar.google.com/citations?user=Z4QMV08AAAAJ&hl=en&oi=ao",
+                "https://papers.ssrn.com/sol3/cf_dev/AbsByAuth.cfm?per_id=1131728",
+                "https://arxiv.org/search/econ?searchtype=author&query=Borri,+N",
+                "https://twitter.com/nicolaborri"
+              ]
+            },
+            {
+              "@type": "ProfilePage",
+              "@id": "https://www.nicolaborri.com/#profile-page",
+              "url": "https://www.nicolaborri.com/",
+              "name": "Nicola Borri",
+              "mainEntity": {
+                "@id": "https://www.nicolaborri.com/#person"
+              },
+              "isPartOf": {
+                "@id": "https://www.nicolaborri.com/#website"
+              }
+            }
+          ]
+        }
+        </script>
 ---
 
 ::: {.wrapper}
