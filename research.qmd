@@ -58,7 +58,7 @@ My papers are listed below.
    with Kirill Shakhnov.
 
 10. [Sovereign Risk Premia](http://ssrn.com/abstract=1343746)<br>
-    with Adrien Verdelhan. Winner, WRDS Best Paper Award, EFM 2010; ABI Best Paper Award on Country Risk Assessment, 2010. [Data](http://web.mit.edu/adrienv/www/SovereignPortfolios.xls)
+    with Adrien Verdelhan (R&R, RFS). Winner, WRDS Best Paper Award, EFM 2010; ABI Best Paper Award on Country Risk Assessment, 2010. [Data](http://web.mit.edu/adrienv/www/SovereignPortfolios.xls)
 
 11. Closed-End Funds and Aggregate Risk<br>
     with Adrien Verdelhan.
