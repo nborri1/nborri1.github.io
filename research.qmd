@@ -28,13 +28,13 @@ My papers are listed below.
    </details>
 
 2. [Forward Selection Fama-MacBeth Regression with Higher-Order Asset Pricing Factors](https://www.nber.org/papers/w33663)<br>
-   with Denis Chetverikov, Yukun Liu and Aleh Tsyvinski (Revise and Resubmit, Review of Financial Studies). NBER Working Paper \#33663, April 2025. [arXiv](https://arxiv.org/abs/2503.23501) [SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5181447)
+   with Denis Chetverikov, Yukun Liu and Aleh Tsyvinski (R&R, RFS). NBER Working Paper \#33663, April 2025. [arXiv](https://arxiv.org/abs/2503.23501) [SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5181447)
    <details class="abstract"><summary>Abstract</summary>
    <p>We show that the higher-order terms and interactions of the common sparse linear factors are significantly priced in the cross-section of equity returns. A higher-order model with only a small number of selected higher-order terms from six widely used factors outperforms traditional benchmarks both in-sample and out-of-sample. It also substantially reduces the alphas of the extensive factor zoo, suggesting that the pricing power of many zoo factors is attributable to their exposure to higher-order terms of common linear factors. We identify and rank the most relevant higher-order terms by developing a forward selection Fama-MacBeth procedure.</p>
    </details>
 
 3. [One Factor to Bind the Cross-Section of Returns](https://www.nber.org/papers/w32365)<br>
-   with Denis Chetverikov, Yukun Liu and Aleh Tsyvinski (Revise and Resubmit, Journal of Finance). NBER Working Paper \#32365, April 2024. [arXiv](https://arxiv.org/abs/2404.08129) [SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4791496)
+   with Denis Chetverikov, Yukun Liu and Aleh Tsyvinski (R&R, JF). NBER Working Paper \#32365, April 2024. [arXiv](https://arxiv.org/abs/2404.08129) [SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4791496)
    <details class="abstract"><summary>Abstract</summary>
    <p>We propose a new non-linear single-factor asset pricing model. Despite its parsimony, this model represents exactly any non-linear model with an arbitrary number of factors and loadings - a consequence of the Kolmogorov-Arnold representation theorem. It features only one pricing component, comprising a nonparametric link function of the time-dependent factor and factor loading that we jointly estimate with sieve-based estimators. Using 171 assets across major classes, our model delivers superior cross-sectional performance with a low-dimensional approximation of the link function. Most known finance and macro factors become insignificant controlling for our single-factor.</p>
    </details>
