@@ -3,6 +3,7 @@ project:
   output-dir: _site
   resources:
     - CNAME
+    - Nicola-Borri/
     - assets/policy-media/public-web/
 
 website:
