@@ -21,46 +21,52 @@ My papers are listed below.
 
 ### Working Papers
 
-1. [Trading Frictions in Dynamic Cap-and-Trade Markets](https://www.nber.org/papers/w35356)<br>
+1. [AI Premium](https://arxiv.org/abs/2606.30583)<br>
+   with Yukun Liu and Aleh Tsyvinski. June 2026. [arXiv](https://arxiv.org/abs/2606.30583) [SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=7021399)
+   <details class="abstract"><summary>Abstract</summary>
+   <p>Using 380 trillion tokens of realized AI consumption across more than four hundred large language models from the licensed proprietary OpenRouter dataset covering approximately 2 percent of current global monthly AI token consumption, we analyze how AI affects firms, markets, and workers. Leveraging the unprecedented size, scope and granularity data, we construct the AI Factor from growth in tokens, dollars, and users, estimate firm-level AI Betas from stock return comovement, and characterize the AI Premium. First, we build a high-frequency AI factor and decompose it into salient components. Second, we show that firms whose returns covary more positively with the AI factor - high AI beta firms - earn higher subsequent returns, and the AI premium is large and heterogeneous. A value-weighted long-short strategy earns 64.1 basis points per week, and the premium is large for loadings on the intensive, frontier-oriented margin of AI consumption - closed-source models, paying and seasoned users, and long prompts - but not on casual or open-weight use. Third, the premium reaches beyond technology firms into consumer-facing and capital-heavy parts of the economy, but is absent in emerging markets, including China. Fourth, the AI exposure is more positive in nonroutine interactive work and the more negative in analytical, scientific, and operations-control skills - an occupation one standard deviation higher in interaction-and-communication content has 0.36-standard-deviation higher market-implied AI premium. Additionally, we provide early evidence of the rise of the agentic economy.</p>
+   </details>
+
+2. [Trading Frictions in Dynamic Cap-and-Trade Markets](https://www.nber.org/papers/w35356)<br>
    with Yukun Liu, Aleh Tsyvinski and Xi Wu (Submitted). NBER Working Paper \#35356, June 2026. [arXiv](https://arxiv.org/abs/2606.03767) [SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4923646). This paper subsumes the earlier *Inefficiencies of Carbon Trading Markets* ([arXiv](https://arxiv.org/abs/2408.06497)).
    <details class="abstract"><summary>Abstract</summary>
    <p>We develop a dynamic stochastic model of markets with an externality and multiple trading frictions, and cap-and-trade as the leading application. Slow participation, limited intermediation, and heterogeneous information interact in equilibrium: agents choose costly market access, access determines residual compliance demand, intermediary constraints translate residual demand into a surrender-month premium, and the premium feeds back into access incentives. These interactions shape how effectively the market corrects the externality. We characterize access choices in closed form, prove that the equilibrium premium is unique, and show that endogenous access dampens the response to each friction in isolation, while the interaction of multiple frictions is non-additive and can amplify the price response. We quantify the model using 2.7 million EU ETS registry transactions and compliance records from 2005-2021. About 40% of operators do not trade annually, purchases concentrate in April when returns are systematically high, and operator flow predicts future returns.</p>
    </details>
 
-2. [Forward Selection Fama-MacBeth Regression with Higher-Order Asset Pricing Factors](https://www.nber.org/papers/w33663)<br>
+3. [Forward Selection Fama-MacBeth Regression with Higher-Order Asset Pricing Factors](https://www.nber.org/papers/w33663)<br>
    with Denis Chetverikov, Yukun Liu and Aleh Tsyvinski (R&R, RFS). NBER Working Paper \#33663, April 2025. [arXiv](https://arxiv.org/abs/2503.23501) [SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5181447)
    <details class="abstract"><summary>Abstract</summary>
    <p>We show that the higher-order terms and interactions of the common sparse linear factors are significantly priced in the cross-section of equity returns. A higher-order model with only a small number of selected higher-order terms from six widely used factors outperforms traditional benchmarks both in-sample and out-of-sample. It also substantially reduces the alphas of the extensive factor zoo, suggesting that the pricing power of many zoo factors is attributable to their exposure to higher-order terms of common linear factors. We identify and rank the most relevant higher-order terms by developing a forward selection Fama-MacBeth procedure.</p>
    </details>
 
-3. [One Factor to Bind the Cross-Section of Returns](https://www.nber.org/papers/w32365)<br>
+4. [One Factor to Bind the Cross-Section of Returns](https://www.nber.org/papers/w32365)<br>
    with Denis Chetverikov, Yukun Liu and Aleh Tsyvinski (R&R, JF). NBER Working Paper \#32365, April 2024. [arXiv](https://arxiv.org/abs/2404.08129) [SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4791496)
    <details class="abstract"><summary>Abstract</summary>
    <p>We propose a new non-linear single-factor asset pricing model. Despite its parsimony, this model represents exactly any non-linear model with an arbitrary number of factors and loadings - a consequence of the Kolmogorov-Arnold representation theorem. It features only one pricing component, comprising a nonparametric link function of the time-dependent factor and factor loading that we jointly estimate with sieve-based estimators. Using 171 assets across major classes, our model delivers superior cross-sectional performance with a low-dimensional approximation of the link function. Most known finance and macro factors become insignificant controlling for our single-factor.</p>
    </details>
 
-4. [Crypto Risk Premia](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4154627)<br>
+5. [Crypto Risk Premia](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4154627)<br>
    with Daniele Massacci, Mirco Rubin and Dario Ruzzi. Featured in [Risk.net](https://www.risk.net/investing/7952951/the-closer-quants-look-the-less-diversifying-crypto-appears), August 5 2022.
 
-5. [The Economics of Non-fungible Tokens](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4052045)<br>
+6. [The Economics of Non-fungible Tokens](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4052045)<br>
    with Yukun Liu and Aleh Tsyvinski (Submitted). Media coverage: Financial Times, Pour l'Eco, Chainlink Research Reports, and Investor's Chronicle.
 
-6. Redistributive Taxation with Skill Biased Technologies<br>
+7. Redistributive Taxation with Skill Biased Technologies<br>
    with Pietro Reichlin.
 
-7. [Crypto Premium, Higher-Order Moments and Tail Risk](http://ssrn.com/abstract=3889169)<br>
+8. [Crypto Premium, Higher-Order Moments and Tail Risk](http://ssrn.com/abstract=3889169)<br>
    with Paolo Santucci de Magistris. [Online Appendix](assets/research/Supplementary_Document_v1.pdf)
 
-8. [Wealth Taxes and Inequality](https://ssrn.com/abstract=3217067)<br>
+9. [Wealth Taxes and Inequality](https://ssrn.com/abstract=3217067)<br>
    with Pietro Reichlin. CEPR Discussion Paper No. 13067, July 2018. [Slides](assets/research/slides_wti_v0.pdf)
 
-9. [Limited Participation and Local Currency Sovereign Debt](http://ssrn.com/abstract=2978127)<br>
+10. [Limited Participation and Local Currency Sovereign Debt](http://ssrn.com/abstract=2978127)<br>
    with Kirill Shakhnov.
 
-10. [Sovereign Risk Premia](http://ssrn.com/abstract=1343746)<br>
+11. [Sovereign Risk Premia](http://ssrn.com/abstract=1343746)<br>
     with Adrien Verdelhan (R&R, RFS). Winner, WRDS Best Paper Award, EFM 2010; ABI Best Paper Award on Country Risk Assessment, 2010. [Data](http://web.mit.edu/adrienv/www/SovereignPortfolios.xls)
 
-11. Closed-End Funds and Aggregate Risk<br>
+12. Closed-End Funds and Aggregate Risk<br>
     with Adrien Verdelhan.
 
 ### Publications
