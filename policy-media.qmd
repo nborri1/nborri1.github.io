@@ -51,10 +51,10 @@ format:
 - [La Grecia volta pagina, i problemi no](https://www.lavoce.info/archives/60463/la-grecia-volta-pagina-i-problemi-no/), July 12, 2019.
 - [Autogol sui PIR: meno efficaci e piu' rischiosi](https://www.lavoce.info/archives/59486/autogol-sui-pir-meno-efficaci-e-piu-rischiosi/), June 4, 2019.
 - [Se l'Italia non ha il paracadute](http://www.lavoce.info/archives/55610/italia-senza-paracadute/), October 23, 2018.
-- PIR, un investimento che piace agli italiani, October 9, 2018.
-- In Grecia torna il sereno, ma nuove nuvole in Europa, September 4, 2018.
-- E in Grecia per la Troika e' missione compiuta, June 22, 2018.
-- Germogli di crescita in Grecia. Ma e' davvero primavera?, September 15, 2017.
+- [PIR, un investimento che piace agli italiani](https://lavoce.info/archives/55394/pir-un-investimento-che-piace-agli-italiani/), October 9, 2018.
+- [In Grecia torna il sereno, ma nuove nuvole in Europa](https://lavoce.info/archives/54751/se-in-grecia-torna-il-sereno-nel-cielo-deuropa-ci-sono-nuove-nuvole/), September 4, 2018.
+- [E in Grecia per la Troika e' missione compiuta](https://lavoce.info/archives/53794/e-in-grecia-per-la-troika-e-missione-compiuta/), June 22, 2018.
+- [Germogli di crescita in Grecia. Ma e' davvero primavera?](https://lavoce.info/archives/48642/primi-germogli-crescita-grecia-davvero-primavera/), September 15, 2017.
 - [Grecia: la saga del debito e' sempre piu' una odissea](assets/policy-media/public-web/linked/lavoce-grecia-saga-debito-2017.pdf), June 20, 2017.
 - [Grecia, la fine della saga resta lontana](assets/policy-media/public-web/linked/lavoce-grecia-fine-saga-2017.pdf), May 9, 2017.
 - [BCE oltre il mandato. Ma per necessita'](assets/policy-media/public-web/linked/lavoce-bce-oltre-mandato-2017.pdf), March 31, 2017.
