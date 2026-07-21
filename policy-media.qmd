@@ -4,10 +4,10 @@ format:
   html:
     include-in-header:
       text: |
-        <meta name="description" content="Policy writings and media contributions by Nicola Borri, including VoxEU, Il Sole 24 Ore, Lavoce, Linkiesta, EuVisions, and Financial Times pieces.">
+        <meta name="description" content="Policy writings and media contributions by Nicola Borri, including VoxEU, Il Sole 24 Ore, Lavoce, Linkiesta, and Financial Times pieces.">
         <link rel="canonical" href="https://www.nicolaborri.com/policy-media.html">
         <meta property="og:title" content="Policy and Media - Nicola Borri">
-        <meta property="og:description" content="Policy writings and media contributions by Nicola Borri, including VoxEU, Il Sole 24 Ore, Lavoce, Linkiesta, EuVisions, and Financial Times pieces.">
+        <meta property="og:description" content="Policy writings and media contributions by Nicola Borri, including VoxEU, Il Sole 24 Ore, Lavoce, Linkiesta, and Financial Times pieces.">
         <meta property="og:type" content="website">
         <meta property="og:url" content="https://www.nicolaborri.com/policy-media.html">
 ---
@@ -25,11 +25,6 @@ format:
 - [Completing the Eurozone Banking Union](http://voxeu.org/article/completing-eurozone-banking-union), May 4, 2016, with Pietro Reichlin. [PDF](assets/policy-media/public-web/linked/voxeu-banking-union-2016.pdf)
 - [The housing cost disease](https://cepr.org/voxeu/columns/housing-cost-disease), September 8, 2015, with Pietro Reichlin. [PDF](assets/policy-media/public-web/linked/voxeu-housing-cost-disease-2015.pdf)
 - [Is Italy going to make it?](https://cepr.org/voxeu/columns/italy-going-make-it), February 4, 2012, with Gianfranco Di Vaio and Giuseppe Ragusa. [PDF](assets/policy-media/public-web/VoxEu/ItalianDebtDynamics_04022012.pdf)
-
-**EuVisions**
-
-- [Greece: How long before economic normality?](http://www.euvisions.eu/before-economic-normality/), October 14, 2016.
-- [Is debt restructuring the right solution for Greece?](http://www.euvisions.eu/is-debt-restructuring-the-right-solution-for-greece/), May 20, 2016.
 
 **Financial Times letters**
 
