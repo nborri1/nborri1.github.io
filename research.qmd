@@ -55,7 +55,7 @@ My papers are listed below.
    with Daniele Massacci, Mirco Rubin and Dario Ruzzi. Featured in [Risk.net](https://www.risk.net/investing/7952951/the-closer-quants-look-the-less-diversifying-crypto-appears), August 5 2022.
 
 7. [The Economics of Non-fungible Tokens](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4052045)<br>
-   with Yukun Liu and Aleh Tsyvinski (Submitted). Media coverage: Financial Times, Pour l'Eco, Chainlink Research Reports, and Investor's Chronicle.
+   with Yukun Liu and Aleh Tsyvinski (Submitted). Media coverage: [Annual Report of the Council of Economic Advisers in the 2023 Economic Report of the President](https://www.govinfo.gov/content/pkg/ERP-2023/pdf/ERP-2023.pdf), [Financial Times, May 22 2022](https://www.ft.com/content/9789e069-9b08-4f60-9b7a-0f2a2005b1b4?syn-25a6b1a6=1), [Financial Times, May 13 2022](https://www.ft.com/content/de268ae5-8ee2-472e-a49b-243e63e7ef5c?syn-25a6b1a6=1), [Pour l'Eco](assets/policy-media/public-web/PLE43-30-31-DOS-AVIS-POURECO_JUNE2022.pdf), [Chainlink Research Reports](https://www.youtube.com/watch?v=sWJpFJdjJzc), and [Investor's Chronicle](https://www.investorschronicle.co.uk/content/307ce5a8-aacc-59fb-84bf-f3b395b47b7a).
 
 8. Redistributive Taxation with Skill Biased Technologies<br>
    with Pietro Reichlin.
