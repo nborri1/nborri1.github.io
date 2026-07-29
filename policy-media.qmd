@@ -21,10 +21,11 @@ format:
 
 **VoxEU**
 
+- [The AI premium](https://cepr.org/voxeu/columns/ai-premium), July 29, 2026, with Yukun Liu and Aleh Tsyvinski.
 - [Inactive workers and mortality due to Covid-19: Evidence from the Italian lockdown](https://voxeu.org/article/inactive-workers-and-mortality-due-covid-19-evidence-italy), October 23, 2020, with Francesco Drago, Chiara Santantonio and Francesco Sobbrio.
-- [Completing the Eurozone Banking Union](http://voxeu.org/article/completing-eurozone-banking-union), May 4, 2016, with Pietro Reichlin. [PDF](assets/policy-media/public-web/linked/voxeu-banking-union-2016.pdf)
-- [The housing cost disease](https://cepr.org/voxeu/columns/housing-cost-disease), September 8, 2015, with Pietro Reichlin. [PDF](assets/policy-media/public-web/linked/voxeu-housing-cost-disease-2015.pdf)
-- [Is Italy going to make it?](https://cepr.org/voxeu/columns/italy-going-make-it), February 4, 2012, with Gianfranco Di Vaio and Giuseppe Ragusa. [PDF](assets/policy-media/public-web/VoxEu/ItalianDebtDynamics_04022012.pdf)
+- [Completing the Eurozone Banking Union](http://voxeu.org/article/completing-eurozone-banking-union), May 4, 2016, with Pietro Reichlin.
+- [The housing cost disease](https://cepr.org/voxeu/columns/housing-cost-disease), September 8, 2015, with Pietro Reichlin.
+- [Is Italy going to make it?](https://cepr.org/voxeu/columns/italy-going-make-it), February 4, 2012, with Gianfranco Di Vaio and Giuseppe Ragusa.
 
 **Financial Times letters**
 
