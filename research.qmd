@@ -77,8 +77,8 @@ My papers are listed below.
 
 ### Publications
 
-1. Cryptocurrency: Coming of Age as an Investable Asset Class<br>
-   with Yukun Liu, Aleh Tsyvinski and Xi Wu. *Annual Review of Financial Economics*, Vol. 18, 2026. [arXiv](https://arxiv.org/abs/2510.14435) [SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5612870)
+1. Cryptocurrency as an Investable Asset Class: Coming of Age<br>
+   with Yukun Liu, Aleh Tsyvinski and Xi Wu. *Annual Review of Financial Economics*, Vol. 18, 2026. [arXiv](https://arxiv.org/abs/2510.14435) [SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5612870) [Published version](https://www.annualreviews.org/content/journals/10.1146/annurev-financial-111524-010949)
    <details class="abstract"><summary>Abstract</summary>
    <p>We organize existing empirical regularities of cryptocurrencies into seven stylized facts and analyze cryptocurrencies through the lens of empirical asset pricing. We find important similarities with traditional markets: risk-adjusted performance so far is broadly comparable, and the cross-section of returns can be summarized by a small set of factors. However, cryptocurrency also has its own distinct character: jumps are frequent and large, and blockchain information helps drive prices. This common set of stylized facts provides evidence that cryptocurrency is emerging as an investable asset class. Additionally, we discuss potential data quality issues and possible changes in future regulations and the cryptocurrency environment.</p>
    </details>
