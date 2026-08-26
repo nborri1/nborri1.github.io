@@ -34,7 +34,7 @@ My papers are listed below.
    </details>
 
 3. [Does Regulation Bite at Gateways? Evidence from MiCA and Stablecoins](https://arxiv.org/abs/2607.09514)<br>
-   with Kirill Shakhnov. July 2026. [arXiv](https://arxiv.org/abs/2607.09514) [SSRN](https://ssrn.com/abstract=7094801). Media coverage: [ForkLog](https://forklog.com/en/mica-has-not-led-to-a-significant-global-outflow-from-usdt-analysts-say/) and [CryptoNews](https://cryptonews.net/news/finance/33262228/).
+   with Kirill Shakhnov (R&R ECOLET). July 2026. [arXiv](https://arxiv.org/abs/2607.09514) [SSRN](https://ssrn.com/abstract=7094801). Media coverage: [ForkLog](https://forklog.com/en/mica-has-not-led-to-a-significant-global-outflow-from-usdt-analysts-say/) and [CryptoNews](https://cryptonews.net/news/finance/33262228/).
    <details class="abstract"><summary>Abstract</summary>
    <p>Gateways are trading venues where regulation can change the assets investors can trade. We study this margin using MiCA---EU's Markets in Crypto-Assets Regulation---which led several exchanges to delist USDT for European Economic Area users, while USDC obtained MiCA authorization. First, aggregate market shares and trading volumes barely move. Second, comparing Regulated-facing exchanges with globally oriented exchanges where MiCA is less likely to bind, we show a shift toward USDC in the cross-section---USDC share rises by 0.82 and relative trading volume by 0.54 pre-event standard deviations. Both reflect a contraction in total exchange-level USDT trading on Regulated-facing venues.</p>
    </details>
