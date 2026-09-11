@@ -33,135 +33,135 @@ My papers are listed below.
    <p>We develop a dynamic stochastic model of markets with an externality and multiple trading frictions, and cap-and-trade as the leading application. Slow participation, limited intermediation, and heterogeneous information interact in equilibrium: agents choose costly market access, access determines residual compliance demand, intermediary constraints translate residual demand into a surrender-month premium, and the premium feeds back into access incentives. These interactions shape how effectively the market corrects the externality. We characterize access choices in closed form, prove that the equilibrium premium is unique, and show that endogenous access dampens the response to each friction in isolation, while the interaction of multiple frictions is non-additive and can amplify the price response. We quantify the model using 2.7 million EU ETS registry transactions and compliance records from 2005-2021. About 40% of operators do not trade annually, purchases concentrate in April when returns are systematically high, and operator flow predicts future returns.</p>
    </details>
 
-3. [Does Regulation Bite at Gateways? Evidence from MiCA and Stablecoins](https://arxiv.org/abs/2607.09514)<br>
-   with Kirill Shakhnov (R&R ECOLET). July 2026. [arXiv](https://arxiv.org/abs/2607.09514) [SSRN](https://ssrn.com/abstract=7094801). Media coverage: [ForkLog](https://forklog.com/en/mica-has-not-led-to-a-significant-global-outflow-from-usdt-analysts-say/) and [CryptoNews](https://cryptonews.net/news/finance/33262228/).
-   <details class="abstract"><summary>Abstract</summary>
-   <p>Gateways are trading venues where regulation can change the assets investors can trade. We study this margin using MiCA---EU's Markets in Crypto-Assets Regulation---which led several exchanges to delist USDT for European Economic Area users, while USDC obtained MiCA authorization. First, aggregate market shares and trading volumes barely move. Second, comparing Regulated-facing exchanges with globally oriented exchanges where MiCA is less likely to bind, we show a shift toward USDC in the cross-section---USDC share rises by 0.82 and relative trading volume by 0.54 pre-event standard deviations. Both reflect a contraction in total exchange-level USDT trading on Regulated-facing venues.</p>
-   </details>
-
-4. [Forward Selection Fama-MacBeth Regression with Higher-Order Asset Pricing Factors](https://www.nber.org/papers/w33663)<br>
+3. [Forward Selection Fama-MacBeth Regression with Higher-Order Asset Pricing Factors](https://www.nber.org/papers/w33663)<br>
    with Denis Chetverikov, Yukun Liu and Aleh Tsyvinski (R&R, RFS). NBER Working Paper \#33663, April 2025. [arXiv](https://arxiv.org/abs/2503.23501) [SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5181447)
    <details class="abstract"><summary>Abstract</summary>
    <p>We show that the higher-order terms and interactions of the common sparse linear factors are significantly priced in the cross-section of equity returns. A higher-order model with only a small number of selected higher-order terms from six widely used factors outperforms traditional benchmarks both in-sample and out-of-sample. It also substantially reduces the alphas of the extensive factor zoo, suggesting that the pricing power of many zoo factors is attributable to their exposure to higher-order terms of common linear factors. We identify and rank the most relevant higher-order terms by developing a forward selection Fama-MacBeth procedure.</p>
    </details>
 
-5. [One Factor to Bind the Cross-Section of Returns](https://www.nber.org/papers/w32365)<br>
+4. [One Factor to Bind the Cross-Section of Returns](https://www.nber.org/papers/w32365)<br>
    with Denis Chetverikov, Yukun Liu and Aleh Tsyvinski (R&R, JF). NBER Working Paper \#32365, April 2024. [arXiv](https://arxiv.org/abs/2404.08129) [SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4791496)
    <details class="abstract"><summary>Abstract</summary>
    <p>We propose a new non-linear single-factor asset pricing model. Despite its parsimony, this model represents exactly any non-linear model with an arbitrary number of factors and loadings - a consequence of the Kolmogorov-Arnold representation theorem. It features only one pricing component, comprising a nonparametric link function of the time-dependent factor and factor loading that we jointly estimate with sieve-based estimators. Using 171 assets across major classes, our model delivers superior cross-sectional performance with a low-dimensional approximation of the link function. Most known finance and macro factors become insignificant controlling for our single-factor.</p>
    </details>
 
-6. [Crypto Risk Premia](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4154627)<br>
+5. [Crypto Risk Premia](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4154627)<br>
    with Daniele Massacci, Mirco Rubin and Dario Ruzzi. Featured in [Risk.net](https://www.risk.net/investing/7952951/the-closer-quants-look-the-less-diversifying-crypto-appears), August 5 2022.
 
-7. [The Economics of Non-fungible Tokens](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4052045)<br>
+6. [The Economics of Non-fungible Tokens](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4052045)<br>
    with Yukun Liu and Aleh Tsyvinski (Submitted). Media coverage: [Annual Report of the Council of Economic Advisers in the 2023 Economic Report of the President](https://www.govinfo.gov/content/pkg/ERP-2023/pdf/ERP-2023.pdf), [Financial Times, May 22 2022](https://www.ft.com/content/9789e069-9b08-4f60-9b7a-0f2a2005b1b4?syn-25a6b1a6=1), [Financial Times, May 13 2022](https://www.ft.com/content/de268ae5-8ee2-472e-a49b-243e63e7ef5c?syn-25a6b1a6=1), [Pour l'Eco](assets/policy-media/public-web/PLE43-30-31-DOS-AVIS-POURECO_JUNE2022.pdf), [Chainlink Research Reports](https://www.youtube.com/watch?v=sWJpFJdjJzc), and [Investor's Chronicle](https://www.investorschronicle.co.uk/content/307ce5a8-aacc-59fb-84bf-f3b395b47b7a).
 
-8. Redistributive Taxation with Skill Biased Technologies<br>
+7. Redistributive Taxation with Skill Biased Technologies<br>
    with Pietro Reichlin.
 
-9. [Crypto Premium, Higher-Order Moments and Tail Risk](http://ssrn.com/abstract=3889169)<br>
+8. [Crypto Premium, Higher-Order Moments and Tail Risk](http://ssrn.com/abstract=3889169)<br>
    with Paolo Santucci de Magistris. [Online Appendix](assets/research/Supplementary_Document_v1.pdf)
 
-10. [Wealth Taxes and Inequality](https://ssrn.com/abstract=3217067)<br>
+9. [Wealth Taxes and Inequality](https://ssrn.com/abstract=3217067)<br>
    with Pietro Reichlin. CEPR Discussion Paper No. 13067, July 2018. [Slides](assets/research/slides_wti_v0.pdf)
 
-11. [Limited Participation and Local Currency Sovereign Debt](http://ssrn.com/abstract=2978127)<br>
+10. [Limited Participation and Local Currency Sovereign Debt](http://ssrn.com/abstract=2978127)<br>
    with Kirill Shakhnov.
 
-12. [Sovereign Risk Premia](http://ssrn.com/abstract=1343746)<br>
+11. [Sovereign Risk Premia](http://ssrn.com/abstract=1343746)<br>
     with Adrien Verdelhan (R&R, RFS). Winner, WRDS Best Paper Award, EFM 2010; ABI Best Paper Award on Country Risk Assessment, 2010. [Data](http://web.mit.edu/adrienv/www/SovereignPortfolios.xls)
 
-13. Closed-End Funds and Aggregate Risk<br>
+12. Closed-End Funds and Aggregate Risk<br>
     with Adrien Verdelhan.
 
 ### Publications
 
-1. Cryptocurrency as an Investable Asset Class: Coming of Age<br>
+1. [Does Regulation Bite at Gateways? Evidence from MiCA and Stablecoins](https://arxiv.org/abs/2607.09514)<br>
+   with Kirill Shakhnov. *Economics Letters*, Forthcoming. [arXiv](https://arxiv.org/abs/2607.09514) [SSRN](https://ssrn.com/abstract=7094801). Media coverage: [ForkLog](https://forklog.com/en/mica-has-not-led-to-a-significant-global-outflow-from-usdt-analysts-say/) and [CryptoNews](https://cryptonews.net/news/finance/33262228/).
+   <details class="abstract"><summary>Abstract</summary>
+   <p>Gateways are trading venues where regulation can change the assets investors can trade. We study this margin using MiCA---EU's Markets in Crypto-Assets Regulation---which led several exchanges to delist USDT for European Economic Area users, while USDC obtained MiCA authorization. First, aggregate market shares and trading volumes barely move. Second, comparing Regulated-facing exchanges with globally oriented exchanges where MiCA is less likely to bind, we show a shift toward USDC in the cross-section---USDC share rises by 0.82 and relative trading volume by 0.54 pre-event standard deviations. Both reflect a contraction in total exchange-level USDT trading on Regulated-facing venues.</p>
+   </details>
+
+2. Cryptocurrency as an Investable Asset Class: Coming of Age<br>
    with Yukun Liu, Aleh Tsyvinski and Xi Wu. *Annual Review of Financial Economics*, Vol. 18, 2026. [arXiv](https://arxiv.org/abs/2510.14435) [SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5612870) [Published version](https://www.annualreviews.org/content/journals/10.1146/annurev-financial-111524-010949)
    <details class="abstract"><summary>Abstract</summary>
    <p>We organize existing empirical regularities of cryptocurrencies into seven stylized facts and analyze cryptocurrencies through the lens of empirical asset pricing. We find important similarities with traditional markets: risk-adjusted performance so far is broadly comparable, and the cross-section of returns can be summarized by a small set of factors. However, cryptocurrency also has its own distinct character: jumps are frequent and large, and blockchain information helps drive prices. This common set of stylized facts provides evidence that cryptocurrency is emerging as an investable asset class. Additionally, we discuss potential data quality issues and possible changes in future regulations and the cryptocurrency environment.</p>
    </details>
 
-2. Systemic Risk in the European Insurance Sector<br>
+3. Systemic Risk in the European Insurance Sector<br>
    with Giovanni Bonaccolto, Andrea Consiglio and Giorgio Di Giorgio. *Journal of Financial Stability*, Vol. 84, 2026. [arXiv](https://arxiv.org/abs/2505.02635) [Published version](https://www.sciencedirect.com/science/article/pii/S1572308926000483)
    <details class="abstract"><summary>Abstract</summary>
    <p>This paper studies systemic-risk connectedness in the European insurance sector at three levels of granularity: across major segments of financial markets, across insurance subsectors, and across individual insurance companies. Using a common connectedness framework applied to returns, volatility, value-at-risk, and expected shortfall, we document that insurers are an important component of systemic-risk connectedness, especially during stress episodes. We also provide reduced-form evidence on economically relevant channels in the European institutional setting: aggregate insurer spillovers co-move with term spreads, sovereign spreads, and funding stress, and firm-level insurer-to-bank spillovers vary with sovereign risk and domestic sovereign-bond home bias in a way consistent with a balance-sheet channel. The analysis further reveals substantial heterogeneity across subsectors and identifies a stable core of systemically central insurers in firm-level networks.</p>
    </details>
 
-3. Cryptomarket Discounts<br>
+4. Cryptomarket Discounts<br>
    with Kirill Shakhnov. *Journal of International Money and Finance*, 139, December 2023. [SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3124394) [Published version](https://www.sciencedirect.com/science/article/pii/S026156062300164X)
    <details class="abstract"><summary>Abstract</summary>
    <p>This paper studies the efficiency of the cryptocurrency market by looking at the distribution of bitcoin prices over time and across exchange-currency pairs. We document persistent differences in relative bitcoin prices (or discounts), with a half-life of 1 day, and a distribution which is leptokurtic, skewed to the right, with a standard deviation of 3.9%. The variability of discounts is larger in countries with tighter capital controls due to the combined effect of market segmentation and local supply and demand shocks, which we relate to location-specific mining activities and investor attention.</p>
    </details>
 
-4. The Cross-Section of Cryptocurrency Returns<br>
+5. The Cross-Section of Cryptocurrency Returns<br>
    with Kirill Shakhnov. *Review of Asset Pricing Studies*, Vol. 12, No. 3, September 2022, pp. 667-705. [SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3241485) [Published version](https://academic.oup.com/raps/article-abstract/12/3/667/6543623?redirectedFrom=fulltext)
    <details class="abstract"><summary>Abstract</summary>
    <p>At a given point in time, bitcoin prices differ across exchanges located in different countries and across currency pairs. While existing literature attributes the largest price differences to frictions such as market segmentation, trading platforms advertise strategies based on this information. We provide a novel risk-based explanation of these price differences for a sample containing the most reputable exchanges and after accounting for transaction costs and limitations to trade. Bitcoin prices for more expensive pairs are riskier because they depreciate more in bad times for cryptocurrency investors, when aggregate liquidity and investor sentiment are lower.</p>
    </details>
 
-5. Systemic Risk and the COVID Challenge in the European Banking Sector<br>
+6. Systemic Risk and the COVID Challenge in the European Banking Sector<br>
    with Giorgio Di Giorgio. *Journal of Banking & Finance*, Vol. 140, July 2022. [SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3716950) [Published version](https://www.sciencedirect.com/science/article/pii/S0378426621000315)
    <details class="abstract"><summary>Abstract</summary>
    <p>This paper studies the systemic risk contribution of a set of large publicly traded European banks. Over a sample covering the last twenty years and three different crises, we find that all banks in our sample significantly contribute to systemic risk. Moreover, larger banks and banks with a business model more exposed to trading and financial market volatility, contribute more. In the shorter sample characterized by the Covid-19 shock, sovereign default risks significantly affected the systemic risk contribution of all banks. However, the ECB announcement of the Pandemic Emergency Purchasing Programme restored calm in the European banking sector.</p>
    </details>
 
-6. Breakup and Default Risks in the Great Lockdown<br>
+7. Breakup and Default Risks in the Great Lockdown<br>
    with Giovanni Bonaccolto and Andrea Consiglio. *Journal of Banking & Finance*, Vol. 147, February 2023, 106308. [SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3487453) [Published version](https://www.sciencedirect.com/science/article/pii/S0378426621002600)
    <details class="abstract"><summary>Abstract</summary>
    <p>We use sovereign CDS contracts with different currencies and default clauses to estimate Eurozone breakup risk and the propagation of breakup and default risks after the COVID-19 shock. We find that breakup risk is significant, though not larger than before the shock, and that increases in redenomination risk in one country are associated with higher default premia and bond spreads elsewhere in the Eurozone. A sizeable part of the cost of insuring against redenomination and default also reflects expected euro depreciation conditional on redenomination and CDS-market liquidity premia.</p>
    </details>
 
-7. The Great Lockdown: Inactive Workers and Mortality by Covid-19<br>
+8. The Great Lockdown: Inactive Workers and Mortality by Covid-19<br>
    with Francesco Drago, Chiara Santantonio and Francesco Sobbrio. *Health Economics*, Vol. 30, No. 10, September 2021, pp. 2367-2382. [SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3689120) [Published version](https://onlinelibrary.wiley.com/doi/10.1002/hec.4383) [VoxEU column](https://voxeu.org/article/inactive-workers-and-mortality-due-covid-19-evidence-italy)
    <details class="abstract"><summary>Abstract</summary>
    <p>We study the causal effects of Italy's March 22, 2020 economic lockdown on Covid-19 mortality and mobility. The empirical design exploits municipality-level variation in the active population induced by the closure of non-essential activities, comparing municipalities with larger and smaller changes before and after the lockdown within provinces. The results show that more intense lockdown exposure significantly reduced Covid-19 mortality, especially among older age groups, with back-of-the-envelope calculations indicating thousands of deaths avoided in the most affected municipalities.</p>
    </details>
 
-8. Global Risk in Long-Term Sovereign Debt<br>
+9. Global Risk in Long-Term Sovereign Debt<br>
    with Kirill Shakhnov. *Review of Asset Pricing Studies*, Vol. 11, No. 3, September 2021, pp. 654-693. [SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3083642) [Published version](https://academic.oup.com/raps/article-abstract/11/3/654/6278366?redirectedFrom=fulltext)
    <details class="abstract"><summary>Abstract</summary>
    <p>We study emerging-market government bonds issued in local currency across maturities. Foreign investors are exposed to interest-rate, currency, and credit risks, but the evidence shows that default premia contribute little to carry-trade returns, while term premia are large and increase with maturity. An affine model with default risk can match these facts only when the permanent component of stochastic discount factors differs across emerging markets.</p>
    </details>
 
-9. Optimal Taxation with Homeownership and Wealth Inequality<br>
+10. Optimal Taxation with Homeownership and Wealth Inequality<br>
    with Pietro Reichlin. *Review of Economic Dynamics*, Vol. 40, April 2021, pp. 64-84. [SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3489157) [Published version](https://www.sciencedirect.com/science/article/pii/S109420252030079X)
    <details class="abstract"><summary>Abstract</summary>
    <p>We study optimal taxation in an economy where housing is both a consumption good and a store of wealth. Because homeownership affects the distribution of wealth and the allocation of capital, the tax treatment of housing has important distributional and efficiency consequences. The analysis characterizes how optimal policy trades off redistribution, capital accumulation, and distortions in housing investment.</p>
    </details>
 
-10. Regulation Spillovers across Cryptocurrency Markets<br>
+11. Regulation Spillovers across Cryptocurrency Markets<br>
     with Kirill Shakhnov. *Finance Research Letters*, Vol. 36, October 2020. [SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3343696) [Published version](https://www.sciencedirect.com/science/article/pii/S1544612319307470)
     <details class="abstract"><summary>Abstract</summary>
     <p>We study how domestic restrictions on cryptocurrency trading can spill across international markets. Using China's 2017 regulatory shock, which sharply reduced domestic bitcoin trading, we document large spillovers to trading volume and relative bitcoin prices in other currency markets, especially Korean won, Japanese yen, U.S. dollar pairs, and Chinese peer-to-peer exchanges.</p>
     </details>
 
-11. Conditional Tail-Risk in Cryptocurrency Markets<br>
+12. Conditional Tail-Risk in Cryptocurrency Markets<br>
     *Journal of Empirical Finance*, Vol. 50, January 2019, pp. 1-19. [SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3162038) [Published version](https://www.sciencedirect.com/science/article/pii/S0927539818300781)
     <details class="abstract"><summary>Abstract</summary>
     <p>This paper measures tail risk and spillovers in cryptocurrency markets using conditional risk measures. The analysis shows that cryptocurrency returns display substantial downside risk and cross-market dependence, with tail events in large cryptocurrencies associated with stress in other crypto assets. The results document economically meaningful systemic-risk linkages within cryptocurrency markets.</p>
     </details>
 
-12. Redenomination-Risk Spillovers in the Eurozone<br>
+13. Redenomination-Risk Spillovers in the Eurozone<br>
     *Economics Letters*, Vol. 174, January 2019, pp. 173-178. [SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3244471) [Published version](https://www.sciencedirect.com/science/article/pii/S0165176518304713)
     <details class="abstract"><summary>Abstract</summary>
     <p>This paper studies spillovers in Eurozone redenomination risk using sovereign CDS contracts with different currencies and default clauses. The evidence shows that redenomination risk is not only country-specific: shocks to redenomination premia in one member country are associated with higher sovereign risk in others. The results point to an important cross-country channel in Eurozone financial stress.</p>
     </details>
 
-13. The Housing Cost Disease<br>
+14. The Housing Cost Disease<br>
     with Pietro Reichlin. *Journal of Economic Dynamics and Control*, Vol. 87, February 2018, pp. 106-123. [SSRN](http://papers.ssrn.com/sol3/papers.cfm?abstract_id=2631127) [Published version](https://www.sciencedirect.com/science/article/pii/S016518891730249X)
     <details class="abstract"><summary>Abstract</summary>
     <p>Using a simple two-sector life cycle economy with housing services and bequests, we show that a rising labor efficiency in the general economy relative to the construction sector can go a long way toward explaining a significant fraction of the rising trends in wealth-to-income ratios, housing wealth, and wealth inequality, that have been documented in most advanced countries at least since the '70s. This mechanism, which we label housing cost disease, has adverse effects on social welfare when the Planner puts sufficient weight on the less wealthy households.</p>
     </details>
 
-14. Local Currency Systemic Risk<br>
+15. Local Currency Systemic Risk<br>
     *Emerging Markets Review*, Vol. 34, 2018, pp. 111-123. [SSRN](http://ssrn.com/abstract=2971049) [Published version](https://www.sciencedirect.com/science/article/pii/S1566014117302145)
     <details class="abstract"><summary>Abstract</summary>
     <p>Emerging country governments increasingly issue local currency denominated bonds and foreign investors have been increasing their holdings of these assets. By issuing debt denominated in local currency, emerging country governments eliminate exchange rate risk. The growing stock of local currency government debt in the financial portfolios of foreign investors increases their diversification and exposure to fast growing economies. In this paper, we highlight some of the risks associated to this recent trend. First, we adopt the CoVaR risk-measure to estimate the vulnerability of individual countries to systemic risk in the market for local currency government debt. Second, we show that our country-level estimates of vulnerability increase with the share of local currency debt held by foreign investors. A version of the old adage "When New York sneezes, London catches a cold," used often to describe the relationship between the stock markets in these two cities, still applies between individual emerging countries and the aggregate market for local currency government debt.</p>
     </details>
 
-15. Sensitivity, Moment Conditions, and the Risk-Free Rate in Yogo (2006)<br>
+16. Sensitivity, Moment Conditions, and the Risk-Free Rate in Yogo (2006)<br>
     with Giuseppe Ragusa. *Critical Finance Review*, Vol. 6, No. 2, pp. 381-393, 2017. [SSRN](https://papers.ssrn.com/sol3/papers2.cfm?abstract_id=2855792) [Published version](https://cfr.ivo-welch.org/published/papers/borri2017sensitivity.pdf) [Replication files](http://www.nowpublishers.com/article/details/supplementary-info/104.00000050_supp.zip)
     <details class="abstract"><summary>Abstract</summary>
     <p>In this paper, we show that results presented in the seminal paper by Yogo, A Consumption Based Explanation of Expected Stock Returns, cannot be replicated. We find different estimates for the parameters and we obtain values of over-identified statistics that, being much larger than those in the original paper, indicate rejection of the durable consumption asset pricing model. By careful inspection of Yogo's replication files, we were able to track down the inconsistency to a coding bug. The rejection of the durable model is exemplified by its inability to simultaneously explain the risk-free rate and excess stock returns.</p>
