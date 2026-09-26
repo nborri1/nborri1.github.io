@@ -5,6 +5,7 @@ project:
     - CNAME
     - Nicola-Borri/
     - assets/policy-media/public-web/
+    - blindsight/
 
 website:
   title: "Nicola Borri"
