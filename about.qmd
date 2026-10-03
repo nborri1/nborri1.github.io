@@ -42,6 +42,8 @@ Rome 00197, Italy
 
 nborri[at]luiss[dot]it
 
+[LinkedIn](https://www.linkedin.com/in/nicola-borri-8887061/)
+
 :::
 {{< include _includes/sidebar.qmd >}}
 :::
