@@ -103,10 +103,10 @@ h2 {
   margin-bottom: 1.25rem;
 }
 
-.about-sidenav .about-details {
-  border-bottom: 1px solid #ddd;
-  padding-bottom: 1.25rem;
-  margin-bottom: 1rem;
+.about-details {
+  border-top: 1px solid #ddd;
+  margin-top: 1.75rem;
+  padding-top: 1rem;
 }
 
 .about-details h2 {

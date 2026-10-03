@@ -19,14 +19,11 @@ format:
 
 # About
 
-Nicola Borri is the Lian Group Chair in Blockchain Technology and Fintech and Associate Professor of Finance in the Department of Corporate Finance and Accounting at Luiss University in Rome, where he has been a faculty member since 2009. He also serves on the Board of Directors of Banca Ifis. He holds a Ph.D. in Economics from Boston University and a B.A. and M.A. in Economics from Bocconi University in Milan.
+Nicola Borri is the Lian Group Chair in Blockchain Technology and Fintech and Associate Professor of Finance in the Department of Corporate Finance and Accounting at Luiss University in Rome. He also serves on the Board of Directors of Banca Ifis. He holds a Ph.D. in Economics from Boston University and a B.A. and M.A. in Economics from Bocconi University in Milan.
 
-His research lies at the intersection of finance and macroeconomics, with a focus on asset pricing and fintech. His work has been published in leading academic journals, including the *Review of Asset Pricing Studies*, *Journal of Banking & Finance*, *Annual Review of Financial Economics*, *Review of Economic Dynamics*, and *Journal of Empirical Finance*. He also serves as an Associate Editor of *Economics Letters*.
-
-:::
+His research lies at the intersection of finance and macroeconomics, with a focus on asset pricing, AI, and fintech. His work has been published in leading academic journals, including the *Review of Asset Pricing Studies*, *Journal of Banking & Finance*, *Annual Review of Financial Economics*, *Review of Economic Dynamics*, and *Journal of Empirical Finance*. His research is frequently featured in the media, including *The New York Times*, *Financial Times*, and NPR's *Planet Money*. He also serves as an Associate Editor of *Economics Letters*.
 
 :::
-::: {.sidenav .about-sidenav}
 ::: {.about-details}
 
 ## CV
@@ -45,6 +42,9 @@ nborri[at]luiss[dot]it
 [LinkedIn](https://www.linkedin.com/in/nicola-borri-8887061/)
 
 :::
+
+:::
+::: {.sidenav}
 {{< include _includes/sidebar.qmd >}}
 :::
 :::
