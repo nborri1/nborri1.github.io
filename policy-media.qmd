@@ -4,10 +4,10 @@ format:
   html:
     include-in-header:
       text: |
-        <meta name="description" content="Policy writings and media contributions by Nicola Borri, including VoxEU, Il Sole 24 Ore, Lavoce, Linkiesta, and Financial Times pieces.">
+        <meta name="description" content="Policy writings and media contributions by Nicola Borri, including Blindsight Substack, VoxEU, Il Sole 24 Ore, Lavoce, Linkiesta, and Financial Times pieces.">
         <link rel="canonical" href="https://www.nicolaborri.com/policy-media.html">
         <meta property="og:title" content="Policy and Media - Nicola Borri">
-        <meta property="og:description" content="Policy writings and media contributions by Nicola Borri, including VoxEU, Il Sole 24 Ore, Lavoce, Linkiesta, and Financial Times pieces.">
+        <meta property="og:description" content="Policy writings and media contributions by Nicola Borri, including Blindsight Substack, VoxEU, Il Sole 24 Ore, Lavoce, Linkiesta, and Financial Times pieces.">
         <meta property="og:type" content="website">
         <meta property="og:url" content="https://www.nicolaborri.com/policy-media.html">
 ---
@@ -18,6 +18,12 @@ format:
 # Policy & Media
 
 ### In English
+
+**[Blindsight Substack](https://blindsightai.substack.com/)**
+
+<a href="https://blindsightai.substack.com/"><img src="blindsight/retention/masthead.png" alt="Blindsight — Borri, Liu, Tsyvinski" width="260" height="57" style="max-width: 100%; height: auto;"></a>
+
+My newsletter on AI, the economy and financial markets, with Yukun Liu and Aleh Tsyvinski.
 
 **VoxEU**
 
