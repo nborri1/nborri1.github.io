@@ -42,6 +42,7 @@ format:
                 "https://scholar.google.com/citations?user=Z4QMV08AAAAJ&hl=en&oi=ao",
                 "https://papers.ssrn.com/sol3/cf_dev/AbsByAuth.cfm?per_id=1131728",
                 "https://arxiv.org/search/econ?searchtype=author&query=Borri,+N",
+                "https://www.linkedin.com/in/nicola-borri-8887061/",
                 "https://x.com/nicolaborri"
               ]
             },
@@ -97,7 +98,8 @@ Luiss University
 
 [Google Scholar](https://scholar.google.com/citations?user=Z4QMV08AAAAJ&hl=en&oi=ao)<br>
 [SSRN](https://papers.ssrn.com/sol3/cf_dev/AbsByAuth.cfm?per_id=1131728)<br>
-[arXiv](https://arxiv.org/search/econ?searchtype=author&query=Borri,+N)
+[arXiv](https://arxiv.org/search/econ?searchtype=author&query=Borri,+N)<br>
+[LinkedIn](https://www.linkedin.com/in/nicola-borri-8887061/)
 
 ### Contact
 
