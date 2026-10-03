@@ -23,7 +23,7 @@ format:
 
 <a href="https://blindsightai.substack.com/"><img src="blindsight/retention/masthead.png" alt="Blindsight — Borri, Liu, Tsyvinski" width="260" height="57" style="max-width: 100%; height: auto;"></a>
 
-My newsletter on AI, the economy and financial markets, with Yukun Liu and Aleh Tsyvinski.
+A Substack on AI, the economy and financial markets, with Yukun Liu and Aleh Tsyvinski.
 
 **VoxEU**
 
