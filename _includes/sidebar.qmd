@@ -1,6 +1,6 @@
 [HOME](index.qmd)
 
-[CV](assets/cv/Nicola_Borri_CV.pdf)
+[ABOUT](about.qmd)
 
 [RESEARCH](research.qmd)
 

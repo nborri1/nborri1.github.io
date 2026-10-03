@@ -99,6 +99,50 @@ h2 {
   margin-top: 1.4rem;
 }
 
+.about-bio h1 {
+  margin-bottom: 1.25rem;
+}
+
+.about-sidenav .about-details {
+  border-bottom: 1px solid #ddd;
+  padding-bottom: 1.25rem;
+  margin-bottom: 1rem;
+}
+
+.about-details h2 {
+  font-family: "DM Sans", sans-serif;
+  font-size: 0.72rem;
+  font-weight: 500;
+  text-transform: uppercase;
+  letter-spacing: 0.12em;
+  color: #888;
+  margin: 0 0 0.5rem;
+}
+
+.about-details h2:not(:first-child) {
+  margin-top: 1.75rem;
+}
+
+.about-details p {
+  font-size: 0.92rem;
+  line-height: 1.55;
+  margin-bottom: 0.75rem;
+}
+
+.about-details a {
+  display: inline;
+  width: auto;
+  padding: 0;
+  margin: 0;
+  font-family: "Spectral", Georgia, "Times New Roman", serif;
+  font-size: 0.92rem;
+  font-weight: 400;
+  text-transform: none;
+  letter-spacing: 0;
+  color: #b5451b;
+  line-height: inherit;
+}
+
 p,
 ul,
 ol {

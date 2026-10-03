@@ -74,9 +74,9 @@ Lian Group Chair in Blockchain Technology and Fintech<br>
 Luiss University
 </div>
 
-### CV
+### About
 
-[My CV is available here.](assets/cv/Nicola_Borri_CV.pdf)
+[Biography, CV, and contact details are available here.](about.qmd)
 
 ### Research
 
